@@ -3,6 +3,9 @@ require 'airtable'
 require 'active_support/all'
 require 'time'
 
+raise "Missing ENV['AIRTABLE_API_KEY']" if not ENV['AIRTABLE_API_KEY']
+raise "Missing ENV['AIRTABLE_TABLE']" if not ENV['AIRTABLE_TABLE']
+raise "Missing ENV['AIRTABLE_BASE']" if not ENV['AIRTABLE_BASE']
 airtable = Airtable::Client.new(ENV['AIRTABLE_API_KEY'])
 table = airtable.table(ENV['AIRTABLE_BASE'], ENV['AIRTABLE_TABLE'])
 
