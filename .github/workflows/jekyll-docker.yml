@@ -14,6 +14,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - env: 
+      AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
+      AIRTABLE_BASE: appbDtfFLqlKDkmXv
+      AIRTABLE_TABLE: Eventos
+      
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/builder container
       run: |
