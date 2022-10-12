@@ -11,15 +11,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env: 
-      AIRTABLE_API_KEY: xxx ${{ secrets.AIRTABLE_API_KEY }}
-      AIRTABLE_BASE: appbDtfFLqlKDkmXv
-      AIRTABLE_TABLE: Eventos
     steps:
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/builder container
 
       run: |
         docker run \
+        -e AIRTABLE_API_KEY='${{ secrets.AIRTABLE_API_KEY }}' \
+        -e AIRTABLE_BASE='appbDtfFLqlKDkmXv' \
+        -e AIRTABLE_TABLE='Eventos' \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
