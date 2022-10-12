@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-
+    environment: build
     runs-on: ubuntu-latest
 
     steps:
