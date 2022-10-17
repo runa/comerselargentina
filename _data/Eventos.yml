@@ -43,32 +43,32 @@
       id: recFYLddo1O8pe1vL
 - - 2022-10-02 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-02 16:30:00.000000000 Z
-      name: Moisha Bakery - Relanzamiento Recoleta
-      descripcion: "\U0001D640\U0001D64E\U0001D64F\U0001D640 \U0001D641\U0001D644\U0001D649\U0001D63F\U0001D640,
-        \U0001D643\U0001D63C\U0001D654 \U0001D640\U0001D651\U0001D640\U0001D649\U0001D64F\U0001D64A\U0001D64A\U0001D64A
-        \U0001F968\U0001F3B6\nLuego de varios meses de refacciones en el paseo Larrea,
-        llegó el momento!\n➤ Este SÁBADO MÚSICA EN VIVO por @lacesarpavonorkesta desde
-        las 13.30\nY promociones especiales en MOISHA RECOLETA \U0001F4CDLarrea 1531\nSe
-        corta la calleeeeeeeee\nY atención \U0001F4E3 lanzamos nuevo nuevisimo SCON
-        PASTRÓN que es una locura {miren la tercer foto}\n\nNos re vemos \U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\n\n#moishabakery
-        #musica #recoleta #cocinajudía"
-      url: https://www.instagram.com/p/CjGuIljvy3O/?igshid=ZjJiMWE1MWQ%3D
-      lugar:
-      - recyJh4T42yzFAS4J
+      comienzo: 2022-10-02 15:00:00.000000000 Z
+      fin: 2022-10-03 01:00:00.000000000 Z
+      name: Fiesta del Alcaucil Domingo
+      descripcion: "Fiesta del Alcaucil\n\nTe presentamos algunos de los platos que
+        tendremos en la fiesta!\nTe lo vas a perder???\n\n\U0001F4C6Te esperamos este
+        1 y 2 de Octubre\n\U0001F4CDEn 51 entre 5 y 6\n⏰De 12 a 22 hs\n\n✅La Chimbotana\n\nBrochet
+        de langostino anticuchados con alcaucil y papines a la provenzal. \n\nPesca
+        fresca en ceviche con alcaucil acompañado con maíz peruano y boniato. \n\n✅Pola
+        (foto1 y 2)\n\nBao: Alcaucil crocante en panko y cereal, Kale, tomate en conserva,
+        emulsión de albahaca y alioli vegano.\n\nDumpling: Alcaucil satanico, poroto
+        mung, cebolla caramelizada y verdeo, con salsa sweet chilli. \n\n✅Manacha
+        Cocina\n\nPaella vegetariana y paella de pollo y alcachofas. \n\nCroquetas
+        de alcachofas y arroz con alioli. \n\n✅Café Urquiza\n\nTostón de pan de campo,
+        láminas de alcauciles en conserva, tomate asados, huevos fritos y jamón crudo.\n\nMbeyú
+        (torta de mandioca y queso) a la brasa, langostinos endiablados y puré de
+        alcauciles. \n\n✅Silvia Díaz chocolatier\n\nBombones con reducción de hiervas,
+        hojas de alcachofas y ganache de chocolate República de Cacao (Ecuador).\n\nTableta
+        de chocolate semi amargo República de Cacao (Ecuador), hojas de alcachofas
+        con azúcar orgánica, sal Maldon ahumada y virutas de cítricos. \n\n@baxarmercado\n@la_chimbotana\n@pola.laplata\n@manachacocina\n@silviadiazchocolatier\n@urquizabodegon\n\n#Fiesta
+        #Alcaucil\n"
+      url: https://www.instagram.com/p/CjF6QgnN7jD/?igshid=N2Y5NTAwYTk%3D
       organizador:
-      - recyJh4T42yzFAS4J
-      participantes:
-      - recyJh4T42yzFAS4J
+      - recZhgf0r1kQSbAXc
       name_organizador:
-      - Moisha Bakery - Recoleta
-      name_lugar:
-      - Moisha Bakery - Recoleta
-      name_participantes:
-      - Moisha Bakery - Recoleta
-      ubicación:
-      - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
-      id: rec7iAzUp7E4yrZeJ
+      - Alcachofas Platenses
+      id: reczRYdmb1HCM665b
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: 2022-10-02 16:00:00.000000000 Z
       fin: 2022-10-02 22:00:00.000000000 Z
@@ -101,69 +101,7 @@
       - Chacarita
       id: rec1Oi4BpnF9FtTF9
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-02 15:00:00.000000000 Z
-      fin: 2022-10-03 01:00:00.000000000 Z
-      name: Fiesta del Alcaucil Domingo
-      descripcion: "Fiesta del Alcaucil\n\nTe presentamos algunos de los platos que
-        tendremos en la fiesta!\nTe lo vas a perder???\n\n\U0001F4C6Te esperamos este
-        1 y 2 de Octubre\n\U0001F4CDEn 51 entre 5 y 6\n⏰De 12 a 22 hs\n\n✅La Chimbotana\n\nBrochet
-        de langostino anticuchados con alcaucil y papines a la provenzal. \n\nPesca
-        fresca en ceviche con alcaucil acompañado con maíz peruano y boniato. \n\n✅Pola
-        (foto1 y 2)\n\nBao: Alcaucil crocante en panko y cereal, Kale, tomate en conserva,
-        emulsión de albahaca y alioli vegano.\n\nDumpling: Alcaucil satanico, poroto
-        mung, cebolla caramelizada y verdeo, con salsa sweet chilli. \n\n✅Manacha
-        Cocina\n\nPaella vegetariana y paella de pollo y alcachofas. \n\nCroquetas
-        de alcachofas y arroz con alioli. \n\n✅Café Urquiza\n\nTostón de pan de campo,
-        láminas de alcauciles en conserva, tomate asados, huevos fritos y jamón crudo.\n\nMbeyú
-        (torta de mandioca y queso) a la brasa, langostinos endiablados y puré de
-        alcauciles. \n\n✅Silvia Díaz chocolatier\n\nBombones con reducción de hiervas,
-        hojas de alcachofas y ganache de chocolate República de Cacao (Ecuador).\n\nTableta
-        de chocolate semi amargo República de Cacao (Ecuador), hojas de alcachofas
-        con azúcar orgánica, sal Maldon ahumada y virutas de cítricos. \n\n@baxarmercado\n@la_chimbotana\n@pola.laplata\n@manachacocina\n@silviadiazchocolatier\n@urquizabodegon\n\n#Fiesta
-        #Alcaucil\n"
-      url: https://www.instagram.com/p/CjF6QgnN7jD/?igshid=N2Y5NTAwYTk%3D
-      organizador:
-      - recZhgf0r1kQSbAXc
-      name_organizador:
-      - Alcachofas Platenses
-      id: reczRYdmb1HCM665b
-- - 2022-10-01 00:00:00.000000000 -03:00
-  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 22:00:00.000000000 Z
-      fin: 2022-10-02 02:30:00.000000000 Z
-      name: 'Juan Pedro Caballero - Taquería Cumpleaños #2'
-      descripcion: "Este sábado se viene BIEN CABRÓN ❤️‍\U0001F525\nFestejamos el
-        2° aniversario de LA TAQUE a puro sabor y color \U0001F525\U0001F973 a partir
-        de las 19 hs:\n\n\U0001F449\U0001F3FB Tacos de suadero \U0001F32E\n\U0001F449\U0001F3FB
-        Conchas con helado \U0001F924\n\U0001F449\U0001F3FB Mariachis \U0001F3A4\n\U0001F449\U0001F3FB
-        Micheladas bien chingonas \U0001F37A\n\U0001F449\U0001F3FBShot de tequila
-        pal que aguante unos toques ⚡️\n\U0001F449\U0001F3FB Y MUCHAS SORPRESAS \U0001F92B\n\nNos
-        acompañan nuestros amigos de @taqueriadiaz @puromaiz_bsas @cultivandosur @dcshoes_argentina
-        ❤️‍\U0001F525"
-      url: https://www.instagram.com/p/CjDuAOnNbpU/?igshid=N2Y5NTAwYTk%3D
-      lugar:
-      - recjYJ0iywY6MslI1
-      organizador:
-      - recjYJ0iywY6MslI1
-      participantes:
-      - recjYJ0iywY6MslI1
-      - rec99mkISctwOwMil
-      name_organizador:
-      - Juan Pedro Chuntano
-      name_lugar:
-      - Juan Pedro Chuntano
-      name_participantes:
-      - Juan Pedro Chuntano
-      - Taquería Diaz
-      calle_y_numero:
-      - Thames 1719
-      ubicación:
-      - https://www.google.com.ar/maps/place/Juan+Pedro+Caballero/@-34.5477769,-58.4515826,15z/data=!4m5!3m4!1s0x95bcb53183b3d3ff:0xb2154c02f730fef2!8m2!3d-34.58733!4d-58.4296978?hl=en
-      barrio:
-      - Palermo
-      id: recPdBkCUjX34qVQZ
-    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 16:30:00.000000000 Z
+      comienzo: 2022-10-02 16:30:00.000000000 Z
       name: Moisha Bakery - Relanzamiento Recoleta
       descripcion: "\U0001D640\U0001D64E\U0001D64F\U0001D640 \U0001D641\U0001D644\U0001D649\U0001D63F\U0001D640,
         \U0001D643\U0001D63C\U0001D654 \U0001D640\U0001D651\U0001D640\U0001D649\U0001D64F\U0001D64A\U0001D64A\U0001D64A
@@ -188,7 +126,28 @@
       - Moisha Bakery - Recoleta
       ubicación:
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
-      id: recxSzi0JOYvqYJfR
+      id: rec7iAzUp7E4yrZeJ
+- - 2022-10-01 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: 2022-10-01 14:00:00.000000000 Z
+      fin: 2022-10-02 22:32:00.000000000 Z
+      name: Semana de la comida histórica - San Telmo
+      descripcion: " SEMANA DE LA COMIDA HISTÓRICA EN EL MUSEO\n\n\U0001F5D3 Del viernes
+        30 de septiembre al domingo 9 de octubre, restaurantes, cafés, bodegones y
+        bares notables de San Telmo se suman a la Semana de la Comida Histórica del
+        MHN.\n\n\U0001F914 ¿Pero qué significa? Cada uno ofrecerá en su menú un plato
+        realizado a partir de una receta tradicional documentada de fines del siglo
+        XIX o principios del siglo XX.\n\n\U0001F4CC En este carrete te contamos dónde
+        y qué podés comer.\n\n\nBulevar Av. \nCaseros 438\nTorta de almendras con
+        crema frangipane\n\nLezama Café\nAv. Caseros 596\nEmpanadas de carne a la
+        coquetuela/pastel de papas /ravioles con estofado/ alfajor de nuez/alfajor
+        de maicena, budin de naranja/ Cocktail citrico y cocktail de naranja y lima\n\nHierbabuena\nAv.
+        Caseros 454\nLimonada/ Alfajor de maicena\n\nCaseros Restaurante\nAv. Caseros
+        486\nCausa\n\nLa Popular\nAv. Caseros 500\nGuiso de lentejas\n\nPatagonia
+        Danuë\nAv. Caseros 601\nAlfajores de maicena con chocolate caliente / Churros
+        rellenos con chocolate caliente\n\n(Hay 20 restaurantes más!)"
+      url: https://www.instagram.com/p/CjG1F5cuLM2/
+      id: recaYapCJmA8GbYCL
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: 2022-10-01 15:00:00.000000000 Z
       name: 'La Garage: Las Pibas Fest'
@@ -244,22 +203,63 @@
       - Alcachofas Platenses
       id: recXObkZGA9KV0nu4
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 14:00:00.000000000 Z
-      fin: 2022-10-02 22:32:00.000000000 Z
-      name: Semana de la comida histórica - San Telmo
-      descripcion: " SEMANA DE LA COMIDA HISTÓRICA EN EL MUSEO\n\n\U0001F5D3 Del viernes
-        30 de septiembre al domingo 9 de octubre, restaurantes, cafés, bodegones y
-        bares notables de San Telmo se suman a la Semana de la Comida Histórica del
-        MHN.\n\n\U0001F914 ¿Pero qué significa? Cada uno ofrecerá en su menú un plato
-        realizado a partir de una receta tradicional documentada de fines del siglo
-        XIX o principios del siglo XX.\n\n\U0001F4CC En este carrete te contamos dónde
-        y qué podés comer.\n\n\nBulevar Av. \nCaseros 438\nTorta de almendras con
-        crema frangipane\n\nLezama Café\nAv. Caseros 596\nEmpanadas de carne a la
-        coquetuela/pastel de papas /ravioles con estofado/ alfajor de nuez/alfajor
-        de maicena, budin de naranja/ Cocktail citrico y cocktail de naranja y lima\n\nHierbabuena\nAv.
-        Caseros 454\nLimonada/ Alfajor de maicena\n\nCaseros Restaurante\nAv. Caseros
-        486\nCausa\n\nLa Popular\nAv. Caseros 500\nGuiso de lentejas\n\nPatagonia
-        Danuë\nAv. Caseros 601\nAlfajores de maicena con chocolate caliente / Churros
-        rellenos con chocolate caliente\n\n(Hay 20 restaurantes más!)"
-      url: https://www.instagram.com/p/CjG1F5cuLM2/
-      id: recaYapCJmA8GbYCL
+      comienzo: 2022-10-01 16:30:00.000000000 Z
+      name: Moisha Bakery - Relanzamiento Recoleta
+      descripcion: "\U0001D640\U0001D64E\U0001D64F\U0001D640 \U0001D641\U0001D644\U0001D649\U0001D63F\U0001D640,
+        \U0001D643\U0001D63C\U0001D654 \U0001D640\U0001D651\U0001D640\U0001D649\U0001D64F\U0001D64A\U0001D64A\U0001D64A
+        \U0001F968\U0001F3B6\nLuego de varios meses de refacciones en el paseo Larrea,
+        llegó el momento!\n➤ Este SÁBADO MÚSICA EN VIVO por @lacesarpavonorkesta desde
+        las 13.30\nY promociones especiales en MOISHA RECOLETA \U0001F4CDLarrea 1531\nSe
+        corta la calleeeeeeeee\nY atención \U0001F4E3 lanzamos nuevo nuevisimo SCON
+        PASTRÓN que es una locura {miren la tercer foto}\n\nNos re vemos \U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\n\n#moishabakery
+        #musica #recoleta #cocinajudía"
+      url: https://www.instagram.com/p/CjGuIljvy3O/?igshid=ZjJiMWE1MWQ%3D
+      lugar:
+      - recyJh4T42yzFAS4J
+      organizador:
+      - recyJh4T42yzFAS4J
+      participantes:
+      - recyJh4T42yzFAS4J
+      name_organizador:
+      - Moisha Bakery - Recoleta
+      name_lugar:
+      - Moisha Bakery - Recoleta
+      name_participantes:
+      - Moisha Bakery - Recoleta
+      ubicación:
+      - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
+      id: recxSzi0JOYvqYJfR
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: 2022-10-01 22:00:00.000000000 Z
+      fin: 2022-10-02 02:30:00.000000000 Z
+      name: 'Juan Pedro Caballero - Taquería Cumpleaños #2'
+      descripcion: "Este sábado se viene BIEN CABRÓN ❤️‍\U0001F525\nFestejamos el
+        2° aniversario de LA TAQUE a puro sabor y color \U0001F525\U0001F973 a partir
+        de las 19 hs:\n\n\U0001F449\U0001F3FB Tacos de suadero \U0001F32E\n\U0001F449\U0001F3FB
+        Conchas con helado \U0001F924\n\U0001F449\U0001F3FB Mariachis \U0001F3A4\n\U0001F449\U0001F3FB
+        Micheladas bien chingonas \U0001F37A\n\U0001F449\U0001F3FBShot de tequila
+        pal que aguante unos toques ⚡️\n\U0001F449\U0001F3FB Y MUCHAS SORPRESAS \U0001F92B\n\nNos
+        acompañan nuestros amigos de @taqueriadiaz @puromaiz_bsas @cultivandosur @dcshoes_argentina
+        ❤️‍\U0001F525"
+      url: https://www.instagram.com/p/CjDuAOnNbpU/?igshid=N2Y5NTAwYTk%3D
+      lugar:
+      - recjYJ0iywY6MslI1
+      organizador:
+      - recjYJ0iywY6MslI1
+      participantes:
+      - recjYJ0iywY6MslI1
+      - rec99mkISctwOwMil
+      name_organizador:
+      - Juan Pedro Chuntano
+      name_lugar:
+      - Juan Pedro Chuntano
+      name_participantes:
+      - Juan Pedro Chuntano
+      - Taquería Diaz
+      calle_y_numero:
+      - Thames 1719
+      ubicación:
+      - https://www.google.com.ar/maps/place/Juan+Pedro+Caballero/@-34.5477769,-58.4515826,15z/data=!4m5!3m4!1s0x95bcb53183b3d3ff:0xb2154c02f730fef2!8m2!3d-34.58733!4d-58.4296978?hl=en
+      barrio:
+      - Palermo
+      id: recPdBkCUjX34qVQZ

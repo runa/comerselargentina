@@ -8,7 +8,7 @@ layout: home
 
 <h3> {{ date[0] | date: '%d/%m/%Y' }} </h3>
 
-<ol>
+<ol class='events'>
   {% for thing in date[1] %}
     <li> <a href='{{thing.url}}' target=_blank>{{ thing.name }}</a>: {{ thing.comienzo | date: '%H:%M' }}
       {% if thing.fin  %}
@@ -33,4 +33,10 @@ layout: home
  .past {
   opacity: 30%
  }
+section.date ol.events {
+  margin-left: 0px;
+}
+section.date ol.events li{
+  list-style-type: none;
+}
 </style>
