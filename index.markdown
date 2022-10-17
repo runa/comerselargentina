@@ -4,7 +4,7 @@ layout: home
 
 
 {% for date in site.data.Eventos %}
-<section data-date='{{ date[0] | date: "%Y-%jT%RZ" }}'>
+<section class='date' data-date='{{ date[0] | date: "%Y-%m-%d" }}'>
 
 <h3> {{ date[0] | date: '%d/%m/%Y' }} </h3>
 
@@ -21,3 +21,16 @@ layout: home
 {% endfor %}
 
 
+<script>
+ var list=document.getElementsByClassName("date")
+ let today=new Date();
+ today.setHours(0,0,0,0)
+ for (let item of list) {
+     item.className += " " + ((new Date(item.dataset.date) >= today) ? "future" : "past")
+ }
+</script>
+<style>
+ .past {
+  opacity: 30%
+ }
+</style>

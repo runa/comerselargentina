@@ -22,7 +22,7 @@ title: Comerse La Argentina - Agenda
 email: martin.sarsale@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Agenda de eventos gastronómicos en CABA y alrededores
-baseurl: "comerselargentina" # the subpath of your site, e.g. /blog
+baseurl: "/comerselargentina" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
