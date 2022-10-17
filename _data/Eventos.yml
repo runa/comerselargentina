@@ -12,11 +12,11 @@
       - recdYQFUJlvhqTSZ0
       participantes:
       - recrGRNRqH3PubMsQ
-      name_(from_organizador):
+      name_organizador:
       - Lardo y Rosemary
-      name_(from_lugar):
+      name_lugar:
       - Lardo y Rosemary
-      name_(from_participantes):
+      name_participantes:
       - Vinos La Imaginación al Poder
       ubicación:
       - https://www.google.com.ar/maps/place/Lardo+%26+Rosemary/@-34.4944615,-58.4847069,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb173217752e5:0x5344f4ed57e92227!8m2!3d-34.4944615!4d-58.4847069?hl=en
@@ -32,11 +32,11 @@
       - recVQNEZIc22REx5q
       participantes:
       - recnzRnfYoayiT8mo
-      name_(from_organizador):
+      name_organizador:
       - José Juarroz
-      name_(from_lugar):
+      name_lugar:
       - José Juarroz
-      name_(from_participantes):
+      name_participantes:
       - Gabi Kogan
       ubicación:
       - https://www.google.com.ar/maps/place/Batalla+del+Pari+916,+C1416+CABA/@-34.6026238,-58.4567815,21z/data=!4m13!1m7!3m6!1s0x95bcca06c981e841:0x5e6b88b27fc0e696!2sBatalla+del+Pari+915,+Buenos+Aires!3b1!8m2!3d-34.6024356!4d-58.4567324!3m4!1s0x95bcca06c7cb6a8d:0x36840b18d3fb7eed!8m2!3d-34.6026865!4d-58.4564656
@@ -60,11 +60,11 @@
       - recyJh4T42yzFAS4J
       participantes:
       - recyJh4T42yzFAS4J
-      name_(from_organizador):
+      name_organizador:
       - Moisha Bakery - Recoleta
-      name_(from_lugar):
+      name_lugar:
       - Moisha Bakery - Recoleta
-      name_(from_participantes):
+      name_participantes:
       - Moisha Bakery - Recoleta
       ubicación:
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
@@ -87,11 +87,11 @@
       - recxE57CVL5tcQ2cC
       participantes:
       - recgwsOnN30ZsWE45
-      name_(from_organizador):
+      name_organizador:
       - Sifon Soderia
-      name_(from_lugar):
+      name_lugar:
       - Sifon Soderia
-      name_(from_participantes):
+      name_participantes:
       - Madre Rojas
       calle_y_numero:
       - Newbery 3881
@@ -124,7 +124,7 @@
       url: https://www.instagram.com/p/CjF6QgnN7jD/?igshid=N2Y5NTAwYTk%3D
       organizador:
       - recZhgf0r1kQSbAXc
-      name_(from_organizador):
+      name_organizador:
       - Alcachofas Platenses
       id: reczRYdmb1HCM665b
 - - 2022-10-01 00:00:00.000000000 -03:00
@@ -148,11 +148,11 @@
       participantes:
       - recjYJ0iywY6MslI1
       - rec99mkISctwOwMil
-      name_(from_organizador):
+      name_organizador:
       - Juan Pedro Chuntano
-      name_(from_lugar):
+      name_lugar:
       - Juan Pedro Chuntano
-      name_(from_participantes):
+      name_participantes:
       - Juan Pedro Chuntano
       - Taquería Diaz
       calle_y_numero:
@@ -180,11 +180,11 @@
       - recyJh4T42yzFAS4J
       participantes:
       - recyJh4T42yzFAS4J
-      name_(from_organizador):
+      name_organizador:
       - Moisha Bakery - Recoleta
-      name_(from_lugar):
+      name_lugar:
       - Moisha Bakery - Recoleta
-      name_(from_participantes):
+      name_participantes:
       - Moisha Bakery - Recoleta
       ubicación:
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
@@ -205,11 +205,11 @@
       - recWlk7NGLLPniEXe
       - recResRKS2TDyByXP
       - recGMoJFvThFlJIfL
-      name_(from_organizador):
+      name_organizador:
       - La Garage
-      name_(from_lugar):
+      name_lugar:
       - La Garage
-      name_(from_participantes):
+      name_participantes:
       - La Fermentadora
       - Salvo Vermut
       - La Garage
@@ -240,7 +240,7 @@
       url: https://www.instagram.com/p/CjF6QgnN7jD/?igshid=N2Y5NTAwYTk%3D
       organizador:
       - recZhgf0r1kQSbAXc
-      name_(from_organizador):
+      name_organizador:
       - Alcachofas Platenses
       id: recXObkZGA9KV0nu4
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
