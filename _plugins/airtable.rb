@@ -17,10 +17,10 @@ File.open("_data/#{ENV['AIRTABLE_TABLE']}.yml", 'w') do |file|
     e[:fin] = Time.parse(e[:fin]) if e[:fin]
   }
   data = data.
-    group_by{|d| d[:comienzo].to_date.to_time}.
+    group_by{|d| d[:comienzo].to_date.to_time}. #group by Event date
     to_a.
     map{|date, items|
-      [date, items.sort_by{|d| d[:comienzo]}]
+      [date, items.sort_by{|d| d[:comienzo]}] # sort Events by time asc
   }
   file.write(warning, data.to_yaml)
 end
