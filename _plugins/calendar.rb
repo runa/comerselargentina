@@ -19,8 +19,8 @@ module CalendarPlugin
       @site.data["Eventos"].each do |date|
         date[1].each do |thing|
           cal.event do |e|
-            e.dtstart     = thing["comienzo"]
-            e.dtend       = thing["fin"]
+            e.dtstart     = Icalendar::Values::DateTime.new thing["comienzo"], tzid: "America/Buenos_Aires"
+            e.dtend       = Icalendar::Values::DateTime.new thing["fin"], tzid: "America/Buenos_Aires"
             e.summary     = thing["name"]
             e.description = thing["url"].to_s + "\n" + thing["descripcion"].to_s
             e.ip_class    = "PUBLIC"
