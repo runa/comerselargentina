@@ -13,7 +13,9 @@ module CalendarPlugin
       cal.append_custom_property("X-WR-CALNAME",@site.config["title"])
       cal.append_custom_property("NAME",@site.config["title"])
       cal.append_custom_property("DESCRIPTION",@site.config["description"])
-
+      cal.timezone do |t|
+          t.tzid = "America/Buenos_Aires"
+      end
       @site.data["Eventos"].each do |date|
         date[1].each do |thing|
           cal.event do |e|
