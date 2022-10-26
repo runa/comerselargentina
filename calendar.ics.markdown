@@ -6,11 +6,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:{{ site.url }}
 METHOD:PUBLISH
+URL:{% link calendar.ics.markdown  %}
+NAME:{{ site.title }}
+X-WR-CALNAME:{{ site.title }}
+DESCRIPTION:{{ site.description | newline_to_br }}
+X-WR-CALDESC:{{ site.description | newline_to_br }}
 {% for date in site.data.Eventos %}{% for thing in date[1] %}BEGIN:VEVENT
 UID:{{ thing.id }}@example.com
-ORGANIZER;CN="Organizer Name":MAILTO:organizer@example.org
+ORGANIZER;CN="{{thing.name_organizador}}"
 LOCATION:{{ thing.name_lugar | join: ', ' | newline_to_br  }}
-SUMMARY:{{ thing.name | newline_to_br }} {{ thing.description | newline_to_br }}
+URL:{{ thing.url }}
 CLASS:PUBLIC
 DTSTART:{{ thing.comienzo | date: "%Y%m%dT%H%M%SZ" }}
 DTEND:{{ thing.fin | default: thing.comienzo | date: "%Y%m%dT%H%M%SZ" }}
