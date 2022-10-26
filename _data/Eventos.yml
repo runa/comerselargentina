@@ -65,6 +65,26 @@
       barrio:
       - Villa Urquiza
       id: recnuJKZO5lQOzaEw
+- - 2022-10-29 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: 'Sol Negro Tacos en Cuatro Gatos Cervecería '
+      organizador:
+      - recls6KLQ6mXC019y
+      lugar:
+      - recls6KLQ6mXC019y
+      comienzo: 2022-10-29 21:00:00.000000000 Z
+      fin: 2022-10-30 02:30:00.000000000 Z
+      participantes:
+      - rechyp17IejRlzAr9
+      name_organizador:
+      - Cervecería Cuatro Gatos
+      name_lugar:
+      - Cervecería Cuatro Gatos
+      name_participantes:
+      - Sol Negro Tacos
+      ubicación:
+      - https://maps.app.goo.gl/1M1Nfjoa6hniGD6t9
+      id: recVmh2DZt3wN8aep
 - - 2022-10-22 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: 2022-10-22 16:00:00.000000000 Z
