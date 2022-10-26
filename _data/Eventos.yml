@@ -2,8 +2,8 @@
 ---
 - - 2022-10-30 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-30 14:00:00.000000000 Z
-      fin: 2022-10-30 23:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-30 14:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-30 23:00:00.000000000 Z
       name: Street K-Food Market
       descripcion: "\U0001F1F0\U0001F1F7 ¡Se viene la 3ra edición de K-Street Food
         x Hansang! \U0001F1F0\U0001F1F7\n\nArrancamos con la data importante:\n\n\U0001F4CD¿Dónde?
@@ -38,8 +38,8 @@
       - https://www.google.com.ar/maps/place/Plaza+Sicilia/@-34.575025,-58.4115666,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb570cb9bdc01:0x21ac8a8d0e574bea!8m2!3d-34.575025!4d-58.4115666?hl=en
       id: rec499zSxvLX9HkYl
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-30 16:00:00.000000000 Z
-      fin: 2022-10-30 23:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-30 16:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-30 23:00:00.000000000 Z
       name: Dia de Muertos
       descripcion: "El próximo domingo 30 de octubre estaremos celebrando a lxs que
         se nos fueron. Por segundo año consecutivo junto con nuestrxs vecinos del
@@ -67,8 +67,8 @@
       id: recnuJKZO5lQOzaEw
 - - 2022-10-29 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-29 21:00:00.000000000 Z
-      fin: 2022-10-30 02:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-29 21:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-30 02:30:00.000000000 Z
       name: 'Sol Negro Tacos en Cuatro Gatos Cervecería '
       lugar:
       - recls6KLQ6mXC019y
@@ -87,8 +87,8 @@
       id: recVmh2DZt3wN8aep
 - - 2022-10-22 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-22 16:00:00.000000000 Z
-      fin: 2022-10-22 21:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-22 16:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-22 21:00:00.000000000 Z
       name: Merkat Villa Crespo - Comunidad Judía
       descripcion: "Todos los sábados del mes de octubre, festejamos las comunidades,
         disfrutando las comidas típicas de la región, con música, promos y mucho más
@@ -105,7 +105,7 @@
       id: reck7pDtaeUDryVZl
 - - 2022-10-17 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-17 23:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-17 23:00:00.000000000 Z
       name: La Imaginación al Poder en Lardoyrosemary
       descripcion: Comida + Cata + Charlas
       url: https://www.instagram.com/stories/vinoslaimaginacionalpoder/2947740299196846594/
@@ -126,7 +126,7 @@
       id: recNIzWgzyYwy6yTn
 - - 2022-10-15 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-15 15:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-15 15:00:00.000000000 Z
       name: 'José Juarroz + Gabi Kogan: Cocina Abierta'
       url: https://www.instagram.com/stories/gabikogan/2947648742926304998/?utm_source=ig_story_item_share&igshid=MDJmNzVkMjY%3D
       lugar:
@@ -146,8 +146,8 @@
       id: recFYLddo1O8pe1vL
 - - 2022-10-02 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-02 15:00:00.000000000 Z
-      fin: 2022-10-03 01:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-02 15:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-03 01:00:00.000000000 Z
       name: Fiesta del Alcaucil Domingo
       descripcion: "Fiesta del Alcaucil\n\nTe presentamos algunos de los platos que
         tendremos en la fiesta!\nTe lo vas a perder???\n\n\U0001F4C6Te esperamos este
@@ -173,8 +173,8 @@
       - Alcachofas Platenses
       id: reczRYdmb1HCM665b
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-02 16:00:00.000000000 Z
-      fin: 2022-10-02 22:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-02 16:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-02 22:00:00.000000000 Z
       name: 'Sifon Sodería - Cumpleaños #3'
       descripcion: "Y como los domingos son en familia, qué mejor que festejarlo todos
         juntos en SIFÓN.\nPusimos lindo el patio, sacamos la parrilla y preparamos
@@ -204,7 +204,7 @@
       - Chacarita
       id: rec1Oi4BpnF9FtTF9
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-02 16:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-02 16:30:00.000000000 Z
       name: Moisha Bakery - Relanzamiento Recoleta
       descripcion: "\U0001D640\U0001D64E\U0001D64F\U0001D640 \U0001D641\U0001D644\U0001D649\U0001D63F\U0001D640,
         \U0001D643\U0001D63C\U0001D654 \U0001D640\U0001D651\U0001D640\U0001D649\U0001D64F\U0001D64A\U0001D64A\U0001D64A
@@ -232,8 +232,8 @@
       id: rec7iAzUp7E4yrZeJ
 - - 2022-10-01 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 14:00:00.000000000 Z
-      fin: 2022-10-02 22:32:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 14:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-02 22:32:00.000000000 Z
       name: Semana de la comida histórica - San Telmo
       descripcion: " SEMANA DE LA COMIDA HISTÓRICA EN EL MUSEO\n\n\U0001F5D3 Del viernes
         30 de septiembre al domingo 9 de octubre, restaurantes, cafés, bodegones y
@@ -252,7 +252,7 @@
       url: https://www.instagram.com/p/CjG1F5cuLM2/
       id: recaYapCJmA8GbYCL
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 15:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 15:00:00.000000000 Z
       name: 'La Garage: Las Pibas Fest'
       descripcion: "Equipo titular de este sábado:\n@lafermentadora + @_lagarage +
         @coloreada._ + @salvo.vermut . Todas emprendedoras mujeres manijas, haciendo
@@ -279,8 +279,8 @@
       - https://www.google.com.ar/maps/place/LA+GARAGE/@-34.5767157,-58.4354226,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb549c983af5d:0x9517e748fa1eeaa7!8m2!3d-34.5767237!4d-58.4354118?hl=en
       id: recYBmLRQtPqM2FJg
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 15:00:00.000000000 Z
-      fin: 2022-10-02 01:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 15:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-02 01:00:00.000000000 Z
       name: Fiesta del Alcaucil
       descripcion: "Fiesta del Alcaucil\n\nTe presentamos algunos de los platos que
         tendremos en la fiesta!\nTe lo vas a perder???\n\n\U0001F4C6Te esperamos este
@@ -306,7 +306,7 @@
       - Alcachofas Platenses
       id: recXObkZGA9KV0nu4
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 16:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 16:30:00.000000000 Z
       name: Moisha Bakery - Relanzamiento Recoleta
       descripcion: "\U0001D640\U0001D64E\U0001D64F\U0001D640 \U0001D641\U0001D644\U0001D649\U0001D63F\U0001D640,
         \U0001D643\U0001D63C\U0001D654 \U0001D640\U0001D651\U0001D640\U0001D649\U0001D64F\U0001D64A\U0001D64A\U0001D64A
@@ -333,8 +333,8 @@
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
       id: recxSzi0JOYvqYJfR
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: 2022-10-01 22:00:00.000000000 Z
-      fin: 2022-10-02 02:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 22:00:00.000000000 Z
+      fin: !ruby/object:DateTime 2022-10-02 02:30:00.000000000 Z
       name: 'Juan Pedro Caballero - Taquería Cumpleaños #2'
       descripcion: "Este sábado se viene BIEN CABRÓN ❤️‍\U0001F525\nFestejamos el
         2° aniversario de LA TAQUE a puro sabor y color \U0001F525\U0001F973 a partir
