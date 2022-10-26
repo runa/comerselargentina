@@ -59,7 +59,7 @@
       name_lugar:
       - Taquería Diaz
       calle_y_numero:
-      - Av. Monroe 3915
+      - Av. Monroe 3915, CABA
       ubicación:
       - https://www.google.com.ar/maps/place/Taquer%C3%ADa+D%C3%ADaz/@-34.5672333,-58.4767706,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb7e970194bd1:0xbc3d2f4d7bd96abd!8m2!3d-34.5672309!4d-58.474584?hl=en
       barrio:
@@ -67,13 +67,13 @@
       id: recnuJKZO5lQOzaEw
 - - 2022-10-29 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      name: 'Sol Negro Tacos en Cuatro Gatos Cervecería '
-      organizador:
-      - recls6KLQ6mXC019y
-      lugar:
-      - recls6KLQ6mXC019y
       comienzo: 2022-10-29 21:00:00.000000000 Z
       fin: 2022-10-30 02:30:00.000000000 Z
+      name: 'Sol Negro Tacos en Cuatro Gatos Cervecería '
+      lugar:
+      - recls6KLQ6mXC019y
+      organizador:
+      - recls6KLQ6mXC019y
       participantes:
       - rechyp17IejRlzAr9
       name_organizador:
@@ -197,7 +197,7 @@
       name_participantes:
       - Madre Rojas
       calle_y_numero:
-      - Newbery 3881
+      - Newbery 3881, CABA
       ubicación:
       - https://goo.gl/maps/QBMmVLvFiKSyKRnH7
       barrio:
@@ -360,7 +360,7 @@
       - Juan Pedro Chuntano
       - Taquería Diaz
       calle_y_numero:
-      - Thames 1719
+      - Thames 1719, CABA
       ubicación:
       - https://www.google.com.ar/maps/place/Juan+Pedro+Caballero/@-34.5477769,-58.4515826,15z/data=!4m5!3m4!1s0x95bcb53183b3d3ff:0xb2154c02f730fef2!8m2!3d-34.58733!4d-58.4296978?hl=en
       barrio:
