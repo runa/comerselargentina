@@ -25,6 +25,9 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
+    icalendar (2.8.0)
+      ice_cube (~> 0.16)
+    ice_cube (0.16.4)
     jekyll (4.2.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -94,6 +97,7 @@ DEPENDENCIES
   activesupport
   airtable
   http_parser.rb (~> 0.6.0)
+  icalendar
   jekyll (~> 4.2.2)
   jekyll-dotenv
   jekyll-feed (~> 0.12)

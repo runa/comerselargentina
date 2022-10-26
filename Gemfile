@@ -36,3 +36,4 @@ gem "webrick", "~> 1.7"
 gem 'jekyll-dotenv'
 gem 'airtable'
 gem 'activesupport'
+gem 'icalendar'
