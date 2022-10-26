@@ -20,7 +20,7 @@ module CalendarPlugin
             e.dtstart     = thing["comienzo"]
             e.dtend       = thing["fin"]
             e.summary     = thing["name"]
-            e.description = thing["descripcion"]
+            e.description = thing["url"].to_s + "\n" + thing["descripcion"].to_s
             e.ip_class    = "PUBLIC"
             e.url = thing["url"]
             e.location = thing["name_lugar"]
