@@ -30,7 +30,8 @@ layout: home
  let today=new Date();
  today.setHours(0,0,0,0)
  for (let item of list) {
-     item.className += " " + ((new Date(item.dataset.date) >= today) ? "future" : "past")
+     var itemDate= new Date(item.dataset.date + " 00:00:00 -03:00")
+     item.className += " " + ((itemDate >= today) ? "future" : "past")
  }
  // toggle short/long description
  for (let item of  document.getElementsByClassName("description")) {
