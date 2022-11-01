@@ -48,6 +48,195 @@
       multiday:
       - *7
       - *8
+- - 2022-11-12 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Fiesta de la Empanada
+      descripcion: "\U0001F389\U0001F95F\U0001F1E6\U0001F1F7 ¡VUELVE LA FIESTA DE
+        LA EMPANADA! \U0001F95F \U0001F389\U0001F1E6\U0001F1F7\n\nEl 12 de noviembre
+        celebremos juntos la tercera edición de la Fiesta de la Empanada \U0001F973\U0001F95F\U0001F469\U0001F3FC‍\U0001F373.
+        24 empanaderas y empanaderos \U0001F468\U0001F3FC‍\U0001F373 de todas las
+        provincias y de la Ciudad de Buenos Aires participarán del concurso por la
+        mejor #empanada del país \U0001F3C6.\n\n\U0001F449\U0001F3FCTambién habrá
+        30 puestos gastronómicos para disfrutar de diferentes variedades de empanadas,
+        diversas propuestas musicales para toda la familia y ¡mucho más!\n\n\U0001F5D3️
+        ¿Cuándo? 12 de noviembre, de 12 a 19 hs.\n\n\U0001F4CD ¿Dónde? Diagonal Norte
+        (Av. Roque Sáenz Peña entre Carlos Pellegrini y Florida)\n\n¡Nos vemos pronto
+        \U0001F609!\n\n#BACapitalGastronómica\n#FiestadelaEmpanada"
+      url: https://www.instagram.com/p/CkbxXmKpbwe/
+      organizador:
+      - recBUCCIlzGxKpuqK
+      comienzo: !ruby/object:DateTime 2022-11-12 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-12 19:00:00.000000000 -03:00
+      name_organizador:
+      - BA Capital Gastronómica
+      id: recAKNWb4ynnN4nel
+- - 2022-11-05 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: 'Fat Broder - Cumpleaños #5'
+      descripcion: "Durante todo este tiempo trabajamos en equipo buscando nuestra
+        mejor versión. Tuvimos clientes que se convirtieron en amigos y experiencias
+        que nos ayudan a seguir creciendo.\nPara festejar este aniversario tan especial,
+        invitamos a nuestros amigos de @salvajebakery y @labanpatisserie para que
+        se sumen y celebremos juntos.\nLaban Patisserie traerá sus macarrones helados
+        y Salvaje Bakery hará un pan brioche de nuez para abrazar nuestra querida
+        Fat Dry con carne madurada.\n\nAdemas estará musicalizando @emiliopalazzolo
+        y cantando @marinavalor R&B, Soul y Pop para pasar una tarde hermosa.\n\n-
+        ¿Cuándo? Sábado 5 de noviembre de 12 a 18 hs\n¡Lxs esperamos Fatlovers! ✨\U0001F9E1\U0001F308"
+      url: https://www.instagram.com/p/Ckbs8nyPCuM/
+      organizador:
+      - recplegL5lD8Dtb1o
+      lugar:
+      - recplegL5lD8Dtb1o
+      comienzo: !ruby/object:DateTime 2022-11-05 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-05 18:00:00.000000000 -03:00
+      participantes:
+      - recplegL5lD8Dtb1o
+      - rec47wvRBnYW3KVCz
+      name_organizador:
+      - Fat Broder
+      name_lugar:
+      - Fat Broder
+      name_participantes:
+      - Fat Broder
+      - Salvaje Bakery
+      calle_y_numero:
+      - Charcas 3787, C1425 CABA
+      ubicación:
+      - https://www.google.com.ar/maps/place/Fat+Broder/@-34.5876615,-58.4175812,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb5800114754f:0x43d290cf51f00a09!8m2!3d-34.5876615!4d-58.4175812?hl=en
+      id: recblzOcYPOZeOJqC
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-05 14:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-05 20:00:00.000000000 -03:00
+      name: 'Día de los muertos en Barragan '
+      descripcion: |2-
+         Es tradición en México y, por eso, en Barra le vamos a hacer honor El 5 de Noviembre desde las 14 Hs celebramos el Día de los Muertos.
+        Te esperamos con nuestra Margarita de Maracuyáy Arándanos, una flamante incorporación a nuestro menú. Además una maquilladora artística nos invitara a intervenir nuestros rostros con las típicas calaveras mexicanas.
+        ¿Te lo vas a perder?
+        #diadelosmuertos #tradicionmexicana #mexico #tradicion #barragan #trago #cocinamexicana #brunchmexicano #brunch #caballito #argentina
+      url: https://www.instagram.com/p/Cka6GFyOrRo/?igshid=YmMyMTA2M2Y=
+      lugar:
+      - reccU1Slawu5rtXyK
+      organizador:
+      - reccU1Slawu5rtXyK
+      name_organizador:
+      - 'Barragan - Loncheria y Café '
+      name_lugar:
+      - 'Barragan - Loncheria y Café '
+      calle_y_numero:
+      - Nicasio Oroño 1195, Buenos Aires, Argentina 1416
+      ubicación:
+      - https://maps.app.goo.gl/fzabbGJBehUaPbuz9
+      id: recXL2glzjfduaV9y
+- - 2022-11-03 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: 'Mundial del Sanguche: milanesa'
+      descripcion: "ESTE JUEVES 3 DE NOVIEMBRE: MUNDIAL DEL SANGUCHE \U0001F96A DESDE
+        LAS 18hs.\nNuestro plato estrella: la milanesa \U0001F451 sale a la cancha
+        en sanguche con un combo imperdible.\nPonete la 10 y bancalo en su día, las
+        unidades son limitadas.\n\nLxs esperamos!"
+      url: https://www.instagram.com/p/CkZX2hqMCIy/
+      organizador:
+      - recFNJOKWxBwVfvMR
+      lugar:
+      - recFNJOKWxBwVfvMR
+      comienzo: !ruby/object:DateTime 2022-11-03 18:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-03 23:30:00.000000000 -03:00
+      participantes:
+      - recFNJOKWxBwVfvMR
+      name_organizador:
+      - La Favorita Cantina
+      name_lugar:
+      - La Favorita Cantina
+      name_participantes:
+      - La Favorita Cantina
+      calle_y_numero:
+      - Honduras 5288, C1414 CABA
+      ubicación:
+      - https://www.google.com.ar/maps/place/La+Favorita+Cantina/@-34.5876615,-58.4175812,17z/data=!4m5!3m4!1s0x95bcb5a277a51fa1:0xe141e2105c45a725!8m2!3d-34.587023!4d-58.4328185?hl=en
+      id: recNh2rq8MTgmcN1M
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-03 20:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-03 23:30:00.000000000 -03:00
+      name: 'Popup Salvaje en Sando y La Chintoneria '
+      descripcion: |-
+        POP UP SALVAJE EN SANDO Y CHINTO
+
+        LOS PANES DE SALVAJE BAKERY EN LOS SANDO DE SANDO DE AMERICA + NUESTROS GIN TONICS SALVAJEADOS!!!!
+
+        MUSICALIZA IL FRATAN
+
+        NO DUERMAN!!!
+      lugar:
+      - recn7wip3XgCTlMIR
+      organizador:
+      - recn7wip3XgCTlMIR
+      participantes:
+      - rec47wvRBnYW3KVCz
+      - recypN85O32zLLogu
+      name_organizador:
+      - Chintoneria
+      name_lugar:
+      - Chintoneria
+      name_participantes:
+      - Salvaje Bakery
+      - Sando de America
+      calle_y_numero:
+      - Echeverría 1677, Local 6, Buenos Aires, Argentina 1428
+      ubicación:
+      - Chintoneria https://maps.app.goo.gl/iFAbEyrX1bLWMJvB9
+      url: https://www.instagram.com/stories/chintoneria/2961525024533345297/
+      id: rec5RsceukYs5sVOl
+- - 2022-11-02 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Dia de los Muertos - Cochinchina
+      url: https://www.instagram.com/stories/direct/2961991685572155136_45672964061/
+      organizador:
+      - recvlYeaP3yUglt16
+      lugar:
+      - recvlYeaP3yUglt16
+      comienzo: !ruby/object:DateTime 2022-11-02 19:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-02 23:30:00.000000000 -03:00
+      participantes:
+      - recvlYeaP3yUglt16
+      name_organizador:
+      - Cochinchina
+      name_lugar:
+      - Cochinchina
+      name_participantes:
+      - Cochinchina
+      calle_y_numero:
+      - Armenia 1540, C1414 CABA
+      ubicación:
+      - https://www.google.com.ar/maps/place/Cochinchina/@-34.5870147,-58.4372988,17z/data=!4m5!3m4!1s0x95bcb5819acf65b3:0x8d81229b6f0cbac1!8m2!3d-34.5903808!4d-58.4289691?hl=en
+      id: recP1PWqWLeb83G3e
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Dia de Muertos en Juan Pedro Caballero
+      descripcion: |-
+        Menú especial:
+        Mole con pollo y arroz
+        Pan de muerto + helado
+      url: https://www.instagram.com/stories/direct/2961960465254047481_7556867595/
+      organizador:
+      - recjYJ0iywY6MslI1
+      lugar:
+      - recjYJ0iywY6MslI1
+      comienzo: !ruby/object:DateTime 2022-11-02 20:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-02 23:30:00.000000000 -03:00
+      participantes:
+      - recjYJ0iywY6MslI1
+      name_organizador:
+      - Juan Pedro Chuntano
+      name_lugar:
+      - Juan Pedro Chuntano
+      name_participantes:
+      - Juan Pedro Chuntano
+      calle_y_numero:
+      - Thames 1719, CABA
+      ubicación:
+      - https://www.google.com.ar/maps/place/Juan+Pedro+Caballero/@-34.5477769,-58.4515826,15z/data=!4m5!3m4!1s0x95bcb53183b3d3ff:0xb2154c02f730fef2!8m2!3d-34.58733!4d-58.4296978?hl=en
+      barrio:
+      - Palermo
+      id: recYU21QR2XUA06AI
 - - 2022-10-30 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-30 11:00:00.000000000 -03:00

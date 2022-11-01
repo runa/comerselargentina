@@ -27,9 +27,16 @@ layout: home
 
 {% include format_agenda.html %}
 <style>
- .past {
+.past {
   opacity: 30%
  }
+.far_future {
+  opacity: 30%;
+  display:none;
+ }
+.far_future ol {
+}
+
 section.date ol.events {
   margin-left: 0px;
 }

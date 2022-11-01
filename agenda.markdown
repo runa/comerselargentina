@@ -8,7 +8,7 @@ width: 300px;
 height: 300px;
 overflow: hidden;    
 font-size: 90%;
-background-color: #eee;
+background-color: #c3f5de;
 }
 
 h1{
@@ -35,9 +35,9 @@ padding: 2px;
 ol.events{
   margin-left:10px;
 }
-a.name {
+h1 a, a.name {
     font-weight: bold;
-        color: black;
+    color: black;
         }
 
 p.description {
@@ -52,7 +52,7 @@ h3.date {
     margin-bottom: 5px;
         font-weight: bold;
         }
-.past {
+.past, .far_future {
 display: none;
 }
 footer{
@@ -60,7 +60,7 @@ display: none;
 }
 </style>
 
-<h1>@comerselargentina</h1>
+<h1><a href='https://www.instagram.com/comerselargentina/' target=_blank>@comerselargentina</a></h1>
 {% for date in site.data.Eventos %}
 <section class='date' data-date='{{ date[0] | date: "%Y-%m-%d" }}'>
 
