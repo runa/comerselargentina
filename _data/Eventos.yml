@@ -2,8 +2,8 @@
 ---
 - - 2022-11-13 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-11-13 14:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-11-14 21:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-11-13 11:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-13 18:30:00.000000000 -03:00
       name: Cultivando Sur en Feria Salvaje
       descripcion: "PASA DE TODO\n\n2 DÍAS\n+ de 100 etiquetas de vino\n+ de 25 productores
         cara a cara\n\nProyectos gastro, charlas, artes.\n\n2 días para rodearte de
@@ -11,23 +11,47 @@
         de momentos\nque te conectan con\nel disfrute y aprendizaje ✨\n\nQué lindo
         verte ahí,\nNOS BEBEMOS PRONTO!\n\nSaluuudd! \U0001F377"
       url: https://www.instagram.com/p/Cj31wjHpU6o/
-      lugar:
+      lugar: &1
       - rec1VwHbFaTpw7d7z
-      organizador:
+      organizador: &2
       - rec1VwHbFaTpw7d7z
-      participantes:
+      participantes: &3
       - recQ6KE5icJa5lUMt
-      name_organizador:
+      name_organizador: &4
       - Feria Salvaje
-      name_lugar:
+      name_lugar: &5
       - Feria Salvaje
-      name_participantes:
+      name_participantes: &6
       - Cultivando sur - Chiles Mexicanos
       id: recdeDQoRXF5sbXSx
+      multiday:
+      - &7 !ruby/object:DateTime 2022-11-13 11:00:00.000000000 -03:00
+      - &8 !ruby/object:DateTime 2022-11-14 18:30:00.000000000 -03:00
+- - 2022-11-14 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-14 11:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-14 18:30:00.000000000 -03:00
+      name: Cultivando Sur en Feria Salvaje
+      descripcion: "PASA DE TODO\n\n2 DÍAS\n+ de 100 etiquetas de vino\n+ de 25 productores
+        cara a cara\n\nProyectos gastro, charlas, artes.\n\n2 días para rodearte de
+        creadores\n2 días para vincularte y expandir tu paladar\n\nFERIA SALVAJE\nllena
+        de momentos\nque te conectan con\nel disfrute y aprendizaje ✨\n\nQué lindo
+        verte ahí,\nNOS BEBEMOS PRONTO!\n\nSaluuudd! \U0001F377"
+      url: https://www.instagram.com/p/Cj31wjHpU6o/
+      lugar: *1
+      organizador: *2
+      participantes: *3
+      name_organizador: *4
+      name_lugar: *5
+      name_participantes: *6
+      id: recdeDQoRXF5sbXSx
+      multiday:
+      - *7
+      - *8
 - - 2022-10-30 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-30 14:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-30 23:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-30 11:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-30 20:00:00.000000000 -03:00
       name: Street K-Food Market
       descripcion: "\U0001F1F0\U0001F1F7 ¡Se viene la 3ra edición de K-Street Food
         x Hansang! \U0001F1F0\U0001F1F7\n\nArrancamos con la data importante:\n\n\U0001F4CD¿Dónde?
@@ -62,8 +86,8 @@
       - https://www.google.com.ar/maps/place/Plaza+Sicilia/@-34.575025,-58.4115666,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb570cb9bdc01:0x21ac8a8d0e574bea!8m2!3d-34.575025!4d-58.4115666?hl=en
       id: rec499zSxvLX9HkYl
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-30 16:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-30 23:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-30 13:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-30 20:00:00.000000000 -03:00
       name: Dia de Muertos
       descripcion: "El próximo domingo 30 de octubre estaremos celebrando a lxs que
         se nos fueron. Por segundo año consecutivo junto con nuestrxs vecinos del
@@ -89,53 +113,9 @@
       barrio:
       - Villa Urquiza
       id: recnuJKZO5lQOzaEw
-- - 2022-10-29 00:00:00.000000000 -03:00
-  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-29 21:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-30 02:30:00.000000000 Z
-      name: 'Sol Negro Tacos en Cuatro Gatos Cervecería '
-      lugar:
-      - recls6KLQ6mXC019y
-      organizador:
-      - recls6KLQ6mXC019y
-      participantes:
-      - rechyp17IejRlzAr9
-      name_organizador:
-      - Cervecería Cuatro Gatos
-      name_lugar:
-      - Cervecería Cuatro Gatos
-      name_participantes:
-      - Sol Negro Tacos
-      ubicación:
-      - https://maps.app.goo.gl/1M1Nfjoa6hniGD6t9
-      id: recVmh2DZt3wN8aep
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-29 23:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-30 02:30:00.000000000 Z
-      name: 'Cumple años de Lo Fi '
-      descripcion: Empanadas - Tango - Vermú
-      url: https://www.instagram.com/p/Cj-8MBOuf65/?igshid=YmMyMTA2M2Y=
-      lugar:
-      - rec4EviUDKvRYSVOk
-      organizador:
-      - rec4EviUDKvRYSVOk
-      participantes:
-      - rec4EviUDKvRYSVOk
-      name_organizador:
-      - Café Lo Fi
-      name_lugar:
-      - Café Lo Fi
-      name_participantes:
-      - Café Lo Fi
-      calle_y_numero:
-      - Arengreen 690
-      ubicación:
-      - https://maps.app.goo.gl/WLAYjRRVkkLg4F6HA
-      id: recc22eeBvwpFsqmj
-- - 2022-10-27 00:00:00.000000000 -03:00
-  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-27 21:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-31 02:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-30 18:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-30 23:30:00.000000000 -03:00
       name: 'La noche de los bares notables '
       descripcion: |
         Hay días con olores y sabores especiales y sin saber por qué el mundo se vuelve diferente. Parroquianos, vecinos y colegas festejando el sabor del encuentro.+
@@ -166,10 +146,166 @@
         Chile 502
       url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
       id: recOmRUhGacC4Mpv4
+      multiday:
+      - &9 !ruby/object:DateTime 2022-10-27 18:00:00.000000000 -03:00
+      - &10 !ruby/object:DateTime 2022-10-30 23:30:00.000000000 -03:00
+- - 2022-10-29 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-10-29 18:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-29 23:30:00.000000000 -03:00
+      name: 'Sol Negro Tacos en Cuatro Gatos Cervecería '
+      lugar:
+      - recls6KLQ6mXC019y
+      organizador:
+      - recls6KLQ6mXC019y
+      participantes:
+      - rechyp17IejRlzAr9
+      name_organizador:
+      - Cervecería Cuatro Gatos
+      name_lugar:
+      - Cervecería Cuatro Gatos
+      name_participantes:
+      - Sol Negro Tacos
+      ubicación:
+      - https://maps.app.goo.gl/1M1Nfjoa6hniGD6t9
+      id: recVmh2DZt3wN8aep
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-10-29 18:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-29 23:30:00.000000000 -03:00
+      name: 'La noche de los bares notables '
+      descripcion: |
+        Hay días con olores y sabores especiales y sin saber por qué el mundo se vuelve diferente. Parroquianos, vecinos y colegas festejando el sabor del encuentro.+
+
+        ¡Feliz dia Cafès de Buenos Aires!
+
+        Te esperamos del 26 al 30 de Octubre para disfrutar de estos platos exclusivos en nuestras mesas. En los horarios de almuerzo y cena. También se pueden llevar. (Take Away)
+
+        Esta iniciativa se realiza conjuntamente con BA Gastronómica, la cámara de Cafés y Bares de la AHRCC con el GCBA, a través del Ministerio de Cultura y Patrimonio BA.
+
+        26 de Octubre - El Día de los Cafés de Buenos
+
+        Aires
+
+        28 de Octubre - La Noche de los Bares Notables
+
+        No tomamos reservas: la ubicación es por orden de llegada.
+
+        Más información en link de la bio
+
+        Café Margot Boedo 857
+        Bar de Cao Independencia 2400
+
+        Celta Bar
+        Sarmiento 1701
+
+        Café La Poesía
+        Chile 502
+      url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
+      id: recOmRUhGacC4Mpv4
+      multiday:
+      - *9
+      - *10
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-10-29 20:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-29 23:30:00.000000000 -03:00
+      name: 'Cumple años de Lo Fi '
+      descripcion: Empanadas - Tango - Vermú
+      url: https://www.instagram.com/p/Cj-8MBOuf65/?igshid=YmMyMTA2M2Y=
+      lugar:
+      - rec4EviUDKvRYSVOk
+      organizador:
+      - rec4EviUDKvRYSVOk
+      participantes:
+      - rec4EviUDKvRYSVOk
+      name_organizador:
+      - Café Lo Fi
+      name_lugar:
+      - Café Lo Fi
+      name_participantes:
+      - Café Lo Fi
+      calle_y_numero:
+      - Arengreen 690
+      ubicación:
+      - https://maps.app.goo.gl/WLAYjRRVkkLg4F6HA
+      id: recc22eeBvwpFsqmj
+- - 2022-10-27 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-10-27 18:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-27 23:30:00.000000000 -03:00
+      name: 'La noche de los bares notables '
+      descripcion: |
+        Hay días con olores y sabores especiales y sin saber por qué el mundo se vuelve diferente. Parroquianos, vecinos y colegas festejando el sabor del encuentro.+
+
+        ¡Feliz dia Cafès de Buenos Aires!
+
+        Te esperamos del 26 al 30 de Octubre para disfrutar de estos platos exclusivos en nuestras mesas. En los horarios de almuerzo y cena. También se pueden llevar. (Take Away)
+
+        Esta iniciativa se realiza conjuntamente con BA Gastronómica, la cámara de Cafés y Bares de la AHRCC con el GCBA, a través del Ministerio de Cultura y Patrimonio BA.
+
+        26 de Octubre - El Día de los Cafés de Buenos
+
+        Aires
+
+        28 de Octubre - La Noche de los Bares Notables
+
+        No tomamos reservas: la ubicación es por orden de llegada.
+
+        Más información en link de la bio
+
+        Café Margot Boedo 857
+        Bar de Cao Independencia 2400
+
+        Celta Bar
+        Sarmiento 1701
+
+        Café La Poesía
+        Chile 502
+      url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
+      id: recOmRUhGacC4Mpv4
+      multiday:
+      - *9
+      - *10
+- - 2022-10-28 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-10-28 18:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-28 23:30:00.000000000 -03:00
+      name: 'La noche de los bares notables '
+      descripcion: |
+        Hay días con olores y sabores especiales y sin saber por qué el mundo se vuelve diferente. Parroquianos, vecinos y colegas festejando el sabor del encuentro.+
+
+        ¡Feliz dia Cafès de Buenos Aires!
+
+        Te esperamos del 26 al 30 de Octubre para disfrutar de estos platos exclusivos en nuestras mesas. En los horarios de almuerzo y cena. También se pueden llevar. (Take Away)
+
+        Esta iniciativa se realiza conjuntamente con BA Gastronómica, la cámara de Cafés y Bares de la AHRCC con el GCBA, a través del Ministerio de Cultura y Patrimonio BA.
+
+        26 de Octubre - El Día de los Cafés de Buenos
+
+        Aires
+
+        28 de Octubre - La Noche de los Bares Notables
+
+        No tomamos reservas: la ubicación es por orden de llegada.
+
+        Más información en link de la bio
+
+        Café Margot Boedo 857
+        Bar de Cao Independencia 2400
+
+        Celta Bar
+        Sarmiento 1701
+
+        Café La Poesía
+        Chile 502
+      url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
+      id: recOmRUhGacC4Mpv4
+      multiday:
+      - *9
+      - *10
 - - 2022-10-22 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-22 16:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-22 21:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-22 13:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-22 18:00:00.000000000 -03:00
       name: Merkat Villa Crespo - Comunidad Judía
       descripcion: "Todos los sábados del mes de octubre, festejamos las comunidades,
         disfrutando las comidas típicas de la región, con música, promos y mucho más
@@ -186,8 +322,8 @@
       id: reck7pDtaeUDryVZl
 - - 2022-10-17 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-17 23:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-17 23:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-17 20:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-17 20:00:00.000000000 -03:00
       name: La Imaginación al Poder en Lardoyrosemary
       descripcion: Comida + Cata + Charlas
       url: https://www.instagram.com/stories/vinoslaimaginacionalpoder/2947740299196846594/
@@ -208,8 +344,8 @@
       id: recNIzWgzyYwy6yTn
 - - 2022-10-15 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-15 15:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-15 15:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-15 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-15 12:00:00.000000000 -03:00
       name: 'José Juarroz + Gabi Kogan: Cocina Abierta'
       url: https://www.instagram.com/stories/gabikogan/2947648742926304998/?utm_source=ig_story_item_share&igshid=MDJmNzVkMjY%3D
       lugar:
@@ -229,8 +365,31 @@
       id: recFYLddo1O8pe1vL
 - - 2022-10-02 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-02 15:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-03 01:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-02 11:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-02 19:32:00.000000000 -03:00
+      name: Semana de la comida histórica - San Telmo
+      descripcion: " SEMANA DE LA COMIDA HISTÓRICA EN EL MUSEO\n\n\U0001F5D3 Del viernes
+        30 de septiembre al domingo 9 de octubre, restaurantes, cafés, bodegones y
+        bares notables de San Telmo se suman a la Semana de la Comida Histórica del
+        MHN.\n\n\U0001F914 ¿Pero qué significa? Cada uno ofrecerá en su menú un plato
+        realizado a partir de una receta tradicional documentada de fines del siglo
+        XIX o principios del siglo XX.\n\n\U0001F4CC En este carrete te contamos dónde
+        y qué podés comer.\n\n\nBulevar Av. \nCaseros 438\nTorta de almendras con
+        crema frangipane\n\nLezama Café\nAv. Caseros 596\nEmpanadas de carne a la
+        coquetuela/pastel de papas /ravioles con estofado/ alfajor de nuez/alfajor
+        de maicena, budin de naranja/ Cocktail citrico y cocktail de naranja y lima\n\nHierbabuena\nAv.
+        Caseros 454\nLimonada/ Alfajor de maicena\n\nCaseros Restaurante\nAv. Caseros
+        486\nCausa\n\nLa Popular\nAv. Caseros 500\nGuiso de lentejas\n\nPatagonia
+        Danuë\nAv. Caseros 601\nAlfajores de maicena con chocolate caliente / Churros
+        rellenos con chocolate caliente\n\n(Hay 20 restaurantes más!)"
+      url: https://www.instagram.com/p/CjG1F5cuLM2/
+      id: recaYapCJmA8GbYCL
+      multiday:
+      - &11 !ruby/object:DateTime 2022-10-01 11:00:00.000000000 -03:00
+      - &12 !ruby/object:DateTime 2022-10-02 19:32:00.000000000 -03:00
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-10-02 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-02 22:00:00.000000000 -03:00
       name: Fiesta del Alcaucil Domingo
       descripcion: "Fiesta del Alcaucil\n\nTe presentamos algunos de los platos que
         tendremos en la fiesta!\nTe lo vas a perder???\n\n\U0001F4C6Te esperamos este
@@ -256,8 +415,8 @@
       - Alcachofas Platenses
       id: reczRYdmb1HCM665b
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-02 16:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-02 22:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-02 13:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-02 19:00:00.000000000 -03:00
       name: 'Sifon Sodería - Cumpleaños #3'
       descripcion: "Y como los domingos son en familia, qué mejor que festejarlo todos
         juntos en SIFÓN.\nPusimos lindo el patio, sacamos la parrilla y preparamos
@@ -287,8 +446,8 @@
       - Chacarita
       id: rec1Oi4BpnF9FtTF9
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-02 16:30:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-02 16:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-02 13:30:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-02 13:30:00.000000000 -03:00
       name: Moisha Bakery - Relanzamiento Recoleta
       descripcion: "\U0001D640\U0001D64E\U0001D64F\U0001D640 \U0001D641\U0001D644\U0001D649\U0001D63F\U0001D640,
         \U0001D643\U0001D63C\U0001D654 \U0001D640\U0001D651\U0001D640\U0001D649\U0001D64F\U0001D64A\U0001D64A\U0001D64A
@@ -316,8 +475,8 @@
       id: rec7iAzUp7E4yrZeJ
 - - 2022-10-01 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-01 14:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-02 22:32:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 11:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-01 19:32:00.000000000 -03:00
       name: Semana de la comida histórica - San Telmo
       descripcion: " SEMANA DE LA COMIDA HISTÓRICA EN EL MUSEO\n\n\U0001F5D3 Del viernes
         30 de septiembre al domingo 9 de octubre, restaurantes, cafés, bodegones y
@@ -335,9 +494,12 @@
         rellenos con chocolate caliente\n\n(Hay 20 restaurantes más!)"
       url: https://www.instagram.com/p/CjG1F5cuLM2/
       id: recaYapCJmA8GbYCL
+      multiday:
+      - *11
+      - *12
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-01 15:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-01 15:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-01 12:00:00.000000000 -03:00
       name: 'La Garage: Las Pibas Fest'
       descripcion: "Equipo titular de este sábado:\n@lafermentadora + @_lagarage +
         @coloreada._ + @salvo.vermut . Todas emprendedoras mujeres manijas, haciendo
@@ -364,8 +526,8 @@
       - https://www.google.com.ar/maps/place/LA+GARAGE/@-34.5767157,-58.4354226,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb549c983af5d:0x9517e748fa1eeaa7!8m2!3d-34.5767237!4d-58.4354118?hl=en
       id: recYBmLRQtPqM2FJg
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-01 15:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-02 01:00:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-01 22:00:00.000000000 -03:00
       name: Fiesta del Alcaucil
       descripcion: "Fiesta del Alcaucil\n\nTe presentamos algunos de los platos que
         tendremos en la fiesta!\nTe lo vas a perder???\n\n\U0001F4C6Te esperamos este
@@ -391,8 +553,8 @@
       - Alcachofas Platenses
       id: recXObkZGA9KV0nu4
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-01 16:30:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-01 16:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 13:30:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-01 13:30:00.000000000 -03:00
       name: Moisha Bakery - Relanzamiento Recoleta
       descripcion: "\U0001D640\U0001D64E\U0001D64F\U0001D640 \U0001D641\U0001D644\U0001D649\U0001D63F\U0001D640,
         \U0001D643\U0001D63C\U0001D654 \U0001D640\U0001D651\U0001D640\U0001D649\U0001D64F\U0001D64A\U0001D64A\U0001D64A
@@ -419,8 +581,8 @@
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
       id: recxSzi0JOYvqYJfR
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      comienzo: !ruby/object:DateTime 2022-10-01 22:00:00.000000000 Z
-      fin: !ruby/object:DateTime 2022-10-02 02:30:00.000000000 Z
+      comienzo: !ruby/object:DateTime 2022-10-01 19:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-10-01 23:30:00.000000000 -03:00
       name: 'Juan Pedro Caballero - Taquería Cumpleaños #2'
       descripcion: "Este sábado se viene BIEN CABRÓN ❤️‍\U0001F525\nFestejamos el
         2° aniversario de LA TAQUE a puro sabor y color \U0001F525\U0001F973 a partir
