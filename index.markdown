@@ -3,7 +3,7 @@ layout: home
 ---
 
 <p class='instr'>➕Agregar eventos a la agenda: envialos o mencioná a <a href='https://www.instagram.com/comerselargentina/' target=_blank>@comerselargentina</a></p>
-<p class='ical'>📅 Para tener los eventos en tu calendario, [click acá]({% link calendar.ics  %})</p>
+<p class='ical'>📅 Para tener los eventos en tu calendario, <a href='{% link calendar.ics  %}'>click acá</a></p>
 
 {% for date in site.data.Eventos %}
 <section class='date' data-date='{{ date[0] | date: "%Y-%m-%d" }}'>
