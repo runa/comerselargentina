@@ -2,8 +2,8 @@
 layout: home
 ---
 
-➕Agregar eventos a la agenda: envialos o mencioná a <a href='https://www.instagram.com/comerselargentina/' target=_blank>@comerselargentina</a><br>
-📅 Para tener los eventos en tu calendario, [click acá]({% link calendar.ics  %})
+<p class='instr'>➕Agregar eventos a la agenda: envialos o mencioná a <a href='https://www.instagram.com/comerselargentina/' target=_blank>@comerselargentina</a></p>
+<p class='ical'>📅 Para tener los eventos en tu calendario, [click acá]({% link calendar.ics  %})</p>
 
 {% for date in site.data.Eventos %}
 <section class='date' data-date='{{ date[0] | date: "%Y-%m-%d" }}'>
@@ -25,19 +25,7 @@ layout: home
 {% endfor %}
 
 
-<script>
- var list=document.getElementsByClassName("date")
- let today=new Date();
- today.setHours(0,0,0,0)
- for (let item of list) {
-     var itemDate= new Date(item.dataset.date + " 00:00:00 -03:00")
-     item.className += " " + ((itemDate >= today) ? "future" : "past")
- }
- // toggle short/long description
- for (let item of  document.getElementsByClassName("description")) {
-    item.addEventListener("click", (event) => { event.target.classList.toggle("show")} )
- }
-</script>
+{% include format_agenda.html %}
 <style>
  .past {
   opacity: 30%
