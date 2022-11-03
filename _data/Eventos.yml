@@ -49,7 +49,7 @@
       - La Fermentadora
       - Salvo Vermut
       - La Garage
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/LA+GARAGE/@-34.5767157,-58.4354226,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb549c983af5d:0x9517e748fa1eeaa7!8m2!3d-34.5767237!4d-58.4354118?hl=en
       id: recYBmLRQtPqM2FJg
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -104,7 +104,7 @@
       - Moisha Bakery - Recoleta
       name_participantes:
       - Moisha Bakery - Recoleta
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
       id: recxSzi0JOYvqYJfR
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -136,7 +136,7 @@
       - Taquería Diaz
       calle_y_numero:
       - Thames 1719, CABA
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Juan+Pedro+Caballero/@-34.5477769,-58.4515826,15z/data=!4m5!3m4!1s0x95bcb53183b3d3ff:0xb2154c02f730fef2!8m2!3d-34.58733!4d-58.4296978?hl=en
       barrio:
       - Palermo
@@ -218,7 +218,7 @@
       - Madre Rojas
       calle_y_numero:
       - Newbery 3881, CABA
-      ubicación:
+      ubicacion:
       - https://goo.gl/maps/QBMmVLvFiKSyKRnH7
       barrio:
       - Chacarita
@@ -248,7 +248,7 @@
       - Moisha Bakery - Recoleta
       name_participantes:
       - Moisha Bakery - Recoleta
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
       id: rec7iAzUp7E4yrZeJ
 - - 2022-10-15 00:00:00.000000000 -03:00
@@ -269,7 +269,7 @@
       - José Juarroz
       name_participantes:
       - Gabi Kogan
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Batalla+del+Pari+916,+C1416+CABA/@-34.6026238,-58.4567815,21z/data=!4m13!1m7!3m6!1s0x95bcca06c981e841:0x5e6b88b27fc0e696!2sBatalla+del+Pari+915,+Buenos+Aires!3b1!8m2!3d-34.6024356!4d-58.4567324!3m4!1s0x95bcca06c7cb6a8d:0x36840b18d3fb7eed!8m2!3d-34.6026865!4d-58.4564656
       id: recFYLddo1O8pe1vL
 - - 2022-10-17 00:00:00.000000000 -03:00
@@ -291,7 +291,7 @@
       - Lardo y Rosemary
       name_participantes:
       - Vinos La Imaginación al Poder
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Lardo+%26+Rosemary/@-34.4944615,-58.4847069,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb173217752e5:0x5344f4ed57e92227!8m2!3d-34.4944615!4d-58.4847069?hl=en
       id: recNIzWgzyYwy6yTn
 - - 2022-10-22 00:00:00.000000000 -03:00
@@ -439,7 +439,7 @@
       - Cervecería Cuatro Gatos
       name_participantes:
       - Sol Negro Tacos
-      ubicación:
+      ubicacion:
       - https://maps.app.goo.gl/1M1Nfjoa6hniGD6t9
       id: recVmh2DZt3wN8aep
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -462,7 +462,7 @@
       - Café Lo Fi
       calle_y_numero:
       - Arengreen 690
-      ubicación:
+      ubicacion:
       - https://maps.app.goo.gl/WLAYjRRVkkLg4F6HA
       id: recc22eeBvwpFsqmj
 - - 2022-10-30 00:00:00.000000000 -03:00
@@ -499,7 +499,7 @@
       - Hansang
       name_lugar:
       - Plaza Sicilia - Bosques de Palermo
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Plaza+Sicilia/@-34.575025,-58.4115666,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb570cb9bdc01:0x21ac8a8d0e574bea!8m2!3d-34.575025!4d-58.4115666?hl=en
       id: rec499zSxvLX9HkYl
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -525,7 +525,7 @@
       - Taquería Diaz
       calle_y_numero:
       - Av. Monroe 3915, CABA
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Taquer%C3%ADa+D%C3%ADaz/@-34.5672333,-58.4767706,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb7e970194bd1:0xbc3d2f4d7bd96abd!8m2!3d-34.5672309!4d-58.474584?hl=en
       barrio:
       - Villa Urquiza
@@ -586,7 +586,7 @@
       - Cochinchina
       calle_y_numero:
       - Armenia 1540, C1414 CABA
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Cochinchina/@-34.5870147,-58.4372988,17z/data=!4m5!3m4!1s0x95bcb5819acf65b3:0x8d81229b6f0cbac1!8m2!3d-34.5903808!4d-58.4289691?hl=en
       id: recP1PWqWLeb83G3e
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -612,7 +612,7 @@
       - Juan Pedro Chuntano
       calle_y_numero:
       - Thames 1719, CABA
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Juan+Pedro+Caballero/@-34.5477769,-58.4515826,15z/data=!4m5!3m4!1s0x95bcb53183b3d3ff:0xb2154c02f730fef2!8m2!3d-34.58733!4d-58.4296978?hl=en
       barrio:
       - Palermo
@@ -639,7 +639,7 @@
       - Tacos Mexicanos Due Mex
       calle_y_numero:
       - Chacabuco 178, B1828 Banfield, Provincia de Buenos Aires
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Puesto+Cincuenta+y+Cuatro/@-34.7456334,-58.3945375,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcd3c31c598f03:0xf994f4ef4df55d47!8m2!3d-34.7456378!4d-58.3923488?hl=en
       id: recTpEkQKHGBRvjdV
 - - 2022-11-03 00:00:00.000000000 -03:00
@@ -666,7 +666,7 @@
       - La Favorita Cantina
       calle_y_numero:
       - Honduras 5288, C1414 CABA
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/La+Favorita+Cantina/@-34.5876615,-58.4175812,17z/data=!4m5!3m4!1s0x95bcb5a277a51fa1:0xe141e2105c45a725!8m2!3d-34.587023!4d-58.4328185?hl=en
       id: recNh2rq8MTgmcN1M
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -714,11 +714,45 @@
       - Sando de America
       calle_y_numero:
       - Echeverría 1677, Local 6, Buenos Aires, Argentina 1428
-      ubicación:
+      ubicacion:
       - Chintoneria https://maps.app.goo.gl/iFAbEyrX1bLWMJvB9
       id: rec5RsceukYs5sVOl
+- - 2022-11-04 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Festival Bocas Abiertas
+      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
+      organizador: &5
+      - recaWqSj5ZvEaenjF
+      lugar: &6
+      - recaWqSj5ZvEaenjF
+      comienzo: !ruby/object:DateTime 2022-11-04 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-04 23:00:00.000000000 -03:00
+      name_organizador: &7
+      - 'Bocas Abiertas '
+      name_lugar: &8
+      - 'Bocas Abiertas '
+      calle_y_numero: &9
+      - Del Barco Centenera y el Rio, San Isidro
+      id: recYJcIjmwkE9i2h6
+      multiday:
+      - &10 !ruby/object:DateTime 2022-11-04 12:00:00.000000000 -03:00
+      - &11 !ruby/object:DateTime 2022-11-06 23:00:00.000000000 -03:00
 - - 2022-11-05 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Festival Bocas Abiertas
+      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
+      organizador: *5
+      lugar: *6
+      comienzo: !ruby/object:DateTime 2022-11-05 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-05 23:00:00.000000000 -03:00
+      name_organizador: *7
+      name_lugar: *8
+      calle_y_numero: *9
+      id: recYJcIjmwkE9i2h6
+      multiday:
+      - *10
+      - *11
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-05 12:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-05 18:00:00.000000000 -03:00
       name: 'Fat Broder - Cumpleaños #5'
@@ -748,7 +782,7 @@
       - Salvaje Bakery
       calle_y_numero:
       - Charcas 3787, C1425 CABA
-      ubicación:
+      ubicacion:
       - https://www.google.com.ar/maps/place/Fat+Broder/@-34.5876615,-58.4175812,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb5800114754f:0x43d290cf51f00a09!8m2!3d-34.5876615!4d-58.4175812?hl=en
       id: recblzOcYPOZeOJqC
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -771,9 +805,24 @@
       - 'Barragan - Loncheria y Café '
       calle_y_numero:
       - Nicasio Oroño 1195, Buenos Aires, Argentina 1416
-      ubicación:
+      ubicacion:
       - https://maps.app.goo.gl/fzabbGJBehUaPbuz9
       id: recXL2glzjfduaV9y
+- - 2022-11-06 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Festival Bocas Abiertas
+      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
+      organizador: *5
+      lugar: *6
+      comienzo: !ruby/object:DateTime 2022-11-06 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-06 23:00:00.000000000 -03:00
+      name_organizador: *7
+      name_lugar: *8
+      calle_y_numero: *9
+      id: recYJcIjmwkE9i2h6
+      multiday:
+      - *10
+      - *11
 - - 2022-11-12 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-12 12:00:00.000000000 -03:00
@@ -807,22 +856,22 @@
         de momentos\nque te conectan con\nel disfrute y aprendizaje ✨\n\nQué lindo
         verte ahí,\nNOS BEBEMOS PRONTO!\n\nSaluuudd! \U0001F377"
       url: https://www.instagram.com/p/Cj31wjHpU6o/
-      lugar: &5
+      lugar: &12
       - rec1VwHbFaTpw7d7z
-      organizador: &6
+      organizador: &13
       - rec1VwHbFaTpw7d7z
-      participantes: &7
+      participantes: &14
       - recQ6KE5icJa5lUMt
-      name_organizador: &8
+      name_organizador: &15
       - Feria Salvaje
-      name_lugar: &9
+      name_lugar: &16
       - Feria Salvaje
-      name_participantes: &10
+      name_participantes: &17
       - Cultivando sur - Chiles Mexicanos
       id: recdeDQoRXF5sbXSx
       multiday:
-      - &11 !ruby/object:DateTime 2022-11-13 11:00:00.000000000 -03:00
-      - &12 !ruby/object:DateTime 2022-11-14 18:30:00.000000000 -03:00
+      - &18 !ruby/object:DateTime 2022-11-13 11:00:00.000000000 -03:00
+      - &19 !ruby/object:DateTime 2022-11-14 18:30:00.000000000 -03:00
 - - 2022-11-14 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-14 11:00:00.000000000 -03:00
@@ -834,13 +883,13 @@
         de momentos\nque te conectan con\nel disfrute y aprendizaje ✨\n\nQué lindo
         verte ahí,\nNOS BEBEMOS PRONTO!\n\nSaluuudd! \U0001F377"
       url: https://www.instagram.com/p/Cj31wjHpU6o/
-      lugar: *5
-      organizador: *6
-      participantes: *7
-      name_organizador: *8
-      name_lugar: *9
-      name_participantes: *10
+      lugar: *12
+      organizador: *13
+      participantes: *14
+      name_organizador: *15
+      name_lugar: *16
+      name_participantes: *17
       id: recdeDQoRXF5sbXSx
       multiday:
-      - *11
-      - *12
+      - *18
+      - *19

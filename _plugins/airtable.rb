@@ -22,6 +22,7 @@ File.open("_data/#{ENV['AIRTABLE_TABLE']}.yml", 'w') do |file|
       # si el evento dura muchos días, hacemos una nueva entrada por cada día,
       # con la hora de comienzo del primer día y la hora de fin del último día
       (e[:comienzo] .. e[:fin]).each do |comienzo|
+        puts "#{e[:name]} multiday"
         e2 = e.dup
         e2[:comienzo] = DateTime.new(comienzo.year, comienzo.month, comienzo.day, 
                                    e[:comienzo].hour,  e[:comienzo].min,  e[:comienzo].sec,  e[:comienzo].zone)

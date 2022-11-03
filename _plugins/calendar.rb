@@ -27,7 +27,7 @@ module CalendarPlugin
             e.description = thing["url"].to_s + "\n" + thing["descripcion"].to_s
             e.ip_class    = "PUBLIC"
             e.url = thing["url"]
-            e.location = thing["name_lugar"]
+            e.location = "#{Array(thing["name_lugar"]).join(" ")}, #{Array(thing["calle_y_numero"]).join(" ")}"
             e.organizer = thing["name_organizador"]
             e.uid = thing["id"]
           end
