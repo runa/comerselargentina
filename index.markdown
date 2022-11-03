@@ -28,11 +28,11 @@ layout: home
 {% include format_agenda.html %}
 <style>
 .past {
-  opacity: 30%
+  display:none;
+  
  }
 .far_future {
-  opacity: 30%;
-  display:none;
+  opacity: 70%;
  }
 .far_future ol {
 }
