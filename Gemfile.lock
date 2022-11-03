@@ -43,6 +43,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-date-localization (0.0.4)
+      i18n (~> 1.0)
     jekyll-dotenv (0.2.0)
       dotenv (~> 2.7)
       jekyll (~> 4)
@@ -99,6 +101,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   icalendar
   jekyll (~> 4.2.2)
+  jekyll-date-localization
   jekyll-dotenv
   jekyll-feed (~> 0.12)
   minima (~> 2.5)

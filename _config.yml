@@ -51,3 +51,5 @@ plugins:
 #   - vendor/ruby/
 google_analytics: G-Q33GYHE3N8
 timezone: America/Buenos_Aires
+date_locale: es
+

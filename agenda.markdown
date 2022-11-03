@@ -64,7 +64,7 @@ display: none;
 {% for date in site.data.Eventos %}
 <section class='date' data-date='{{ date[0] | date: "%Y-%m-%d" }}'>
 
-<h3 class='date'> {{ date[0] | date: '%d/%m/%Y' }} </h3>
+<h3 class='date'>{{ date[0] | localize: '%A %d/%m' | capitalize }} </h3>
 
 <ol class='events'>
   {% for thing in date[1] %}
