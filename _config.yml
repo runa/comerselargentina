@@ -52,4 +52,7 @@ plugins:
 google_analytics: G-Q33GYHE3N8
 timezone: America/Buenos_Aires
 date_locale: es
-
+collections:
+  events:
+    output: true
+future: true

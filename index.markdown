@@ -16,7 +16,7 @@ layout: home
       {% if thing.fin  %}
         - {{ thing.fin | date: '%H:%M'}} 
       {% endif %}
-      <span class='where'>({{ thing.name_lugar  }})
+      <span class='where'>({{ thing.name_lugar  }})<small><a href="{{thing.permalink}}">🔗</a></small>
       </span>
       <p class='description'>
         <small>📍{% if thing.ubicacion and thing.ubicacion != '' %}<a href='{{ thing.ubicacion }}' target='_blank'>{% endif %}

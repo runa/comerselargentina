@@ -21,6 +21,7 @@
         rellenos con chocolate caliente\n\n(Hay 20 restaurantes más!)"
       url: https://www.instagram.com/p/CjG1F5cuLM2/
       id: recaYapCJmA8GbYCL
+      permalink: eventos/2022-10-01-semanaXdeXlaXcomidaXhistóricaXXXsanXtelmo-recayapcjma8gbycl
       multiday:
       - &1 !ruby/object:DateTime 2022-10-01 11:00:00.000000000 -03:00
       - &2 !ruby/object:DateTime 2022-10-02 19:32:00.000000000 -03:00
@@ -52,6 +53,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/LA+GARAGE/@-34.5767157,-58.4354226,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb549c983af5d:0x9517e748fa1eeaa7!8m2!3d-34.5767237!4d-58.4354118?hl=en
       id: recYBmLRQtPqM2FJg
+      permalink: eventos/2022-10-01-laXgarageXXlasXpibasXfest-recybmlrqtpqm2fjg
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-01 12:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-01 22:00:00.000000000 -03:00
@@ -79,6 +81,7 @@
       name_organizador:
       - Alcachofas Platenses
       id: recXObkZGA9KV0nu4
+      permalink: eventos/2022-10-01-fiestaXdelXalcaucil-recxobkzga9kv0nu4
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-01 13:30:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-01 13:30:00.000000000 -03:00
@@ -107,6 +110,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
       id: recxSzi0JOYvqYJfR
+      permalink: eventos/2022-10-01-moishaXbakeryXXXrelanzamientoXrecoleta-recxszi0joyvqyjfr
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-01 19:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-01 23:30:00.000000000 -03:00
@@ -141,6 +145,7 @@
       barrio:
       - Palermo
       id: recPdBkCUjX34qVQZ
+      permalink: eventos/2022-10-01-juanXpedroXcaballeroXXXtaqueríaXcumpleaXosXX2-recpdbkcujx34qvqz
 - - 2022-10-02 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-02 11:00:00.000000000 -03:00
@@ -162,6 +167,7 @@
         rellenos con chocolate caliente\n\n(Hay 20 restaurantes más!)"
       url: https://www.instagram.com/p/CjG1F5cuLM2/
       id: recaYapCJmA8GbYCL
+      permalink: eventos/2022-10-01-semanaXdeXlaXcomidaXhistóricaXXXsanXtelmo-recayapcjma8gbycl
       multiday:
       - *1
       - *2
@@ -192,6 +198,7 @@
       name_organizador:
       - Alcachofas Platenses
       id: reczRYdmb1HCM665b
+      permalink: eventos/2022-10-02-fiestaXdelXalcaucilXdomingo-reczrydmb1hcm665b
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-02 13:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-02 19:00:00.000000000 -03:00
@@ -223,6 +230,7 @@
       barrio:
       - Chacarita
       id: rec1Oi4BpnF9FtTF9
+      permalink: eventos/2022-10-02-sifonXsoderíaXXXcumpleaXosXX3-rec1oi4bpnf9fttf9
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-02 13:30:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-02 13:30:00.000000000 -03:00
@@ -251,6 +259,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Moisha+Bakery+Recoleta/@-34.5897377,-58.4313065,14z/data=!4m10!1m3!2m2!1smoisha+bakery!6e5!3m5!1s0x95bccba7cd15cceb:0x32bf8623c2c3a7ec!8m2!3d-34.5897396!4d-58.3983438!15sCg1tb2lzaGEgYmFrZXJ5Wg8iDW1vaXNoYSBiYWtlcnmSAQpyZXN0YXVyYW504AEA?hl=en
       id: rec7iAzUp7E4yrZeJ
+      permalink: eventos/2022-10-02-moishaXbakeryXXXrelanzamientoXrecoleta-rec7iazup7e4yrzej
 - - 2022-10-15 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-15 12:00:00.000000000 -03:00
@@ -272,6 +281,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Batalla+del+Pari+916,+C1416+CABA/@-34.6026238,-58.4567815,21z/data=!4m13!1m7!3m6!1s0x95bcca06c981e841:0x5e6b88b27fc0e696!2sBatalla+del+Pari+915,+Buenos+Aires!3b1!8m2!3d-34.6024356!4d-58.4567324!3m4!1s0x95bcca06c7cb6a8d:0x36840b18d3fb7eed!8m2!3d-34.6026865!4d-58.4564656
       id: recFYLddo1O8pe1vL
+      permalink: eventos/2022-10-15-joséXjuarrozXXXgabiXkoganXXcocinaXabierta-recfylddo1o8pe1vl
 - - 2022-10-17 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-17 20:00:00.000000000 -03:00
@@ -294,6 +304,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Lardo+%26+Rosemary/@-34.4944615,-58.4847069,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb173217752e5:0x5344f4ed57e92227!8m2!3d-34.4944615!4d-58.4847069?hl=en
       id: recNIzWgzyYwy6yTn
+      permalink: eventos/2022-10-17-laXimaginaciónXalXpoderXenXlardoyrosemary-recnizwgzyywy6ytn
 - - 2022-10-22 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-22 13:00:00.000000000 -03:00
@@ -312,6 +323,7 @@
       name_organizador:
       - Merkat Villa Crespo
       id: reck7pDtaeUDryVZl
+      permalink: eventos/2022-10-22-merkatXvillaXcrespoXXXcomunidadXjudía-reck7pdtaeudryvzl
 - - 2022-10-27 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-27 18:00:00.000000000 -03:00
@@ -346,6 +358,7 @@
         Chile 502
       url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
       id: recOmRUhGacC4Mpv4
+      permalink: eventos/2022-10-27-laXnocheXdeXlosXbaresXnotablesX-recomruhgacc4mpv4
       multiday:
       - &3 !ruby/object:DateTime 2022-10-27 18:00:00.000000000 -03:00
       - &4 !ruby/object:DateTime 2022-10-30 23:30:00.000000000 -03:00
@@ -383,6 +396,7 @@
         Chile 502
       url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
       id: recOmRUhGacC4Mpv4
+      permalink: eventos/2022-10-27-laXnocheXdeXlosXbaresXnotablesX-recomruhgacc4mpv4
       multiday:
       - *3
       - *4
@@ -420,6 +434,7 @@
         Chile 502
       url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
       id: recOmRUhGacC4Mpv4
+      permalink: eventos/2022-10-27-laXnocheXdeXlosXbaresXnotablesX-recomruhgacc4mpv4
       multiday:
       - *3
       - *4
@@ -442,6 +457,7 @@
       ubicacion:
       - https://maps.app.goo.gl/1M1Nfjoa6hniGD6t9
       id: recVmh2DZt3wN8aep
+      permalink: eventos/2022-10-29-solXnegroXtacosXenXcuatroXgatosXcerveceríaX-recvmh2dzt3wn8aep
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-29 20:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-29 23:30:00.000000000 -03:00
@@ -465,6 +481,7 @@
       ubicacion:
       - https://maps.app.goo.gl/WLAYjRRVkkLg4F6HA
       id: recc22eeBvwpFsqmj
+      permalink: eventos/2022-10-29-cumpleXaXosXdeXloXfiX-recc22eebvwpfsqmj
 - - 2022-10-30 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-30 11:00:00.000000000 -03:00
@@ -502,6 +519,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Plaza+Sicilia/@-34.575025,-58.4115666,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb570cb9bdc01:0x21ac8a8d0e574bea!8m2!3d-34.575025!4d-58.4115666?hl=en
       id: rec499zSxvLX9HkYl
+      permalink: eventos/2022-10-30-streetXkXfoodXmarket-rec499zsxvlx9hkyl
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-30 13:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-30 20:00:00.000000000 -03:00
@@ -530,6 +548,7 @@
       barrio:
       - Villa Urquiza
       id: recnuJKZO5lQOzaEw
+      permalink: eventos/2022-10-30-diaXdeXmuertos-recnujkzo5lqozaew
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-10-30 18:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-10-30 23:30:00.000000000 -03:00
@@ -563,6 +582,7 @@
         Chile 502
       url: https://www.instagram.com/p/CkKdH6AMxu6/?igshid=YmMyMTA2M2Y=
       id: recOmRUhGacC4Mpv4
+      permalink: eventos/2022-10-27-laXnocheXdeXlosXbaresXnotablesX-recomruhgacc4mpv4
       multiday:
       - *3
       - *4
@@ -589,6 +609,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Cochinchina/@-34.5870147,-58.4372988,17z/data=!4m5!3m4!1s0x95bcb5819acf65b3:0x8d81229b6f0cbac1!8m2!3d-34.5903808!4d-58.4289691?hl=en
       id: recP1PWqWLeb83G3e
+      permalink: eventos/2022-11-02-diaXdeXlosXmuertosXXXcochinchina-recp1pwqwleb83g3e
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-02 20:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-02 23:30:00.000000000 -03:00
@@ -617,6 +638,7 @@
       barrio:
       - Palermo
       id: recYU21QR2XUA06AI
+      permalink: eventos/2022-11-02-diaXdeXmuertosXenXjuanXpedroXcaballero-recyu21qr2xua06ai
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-02 20:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-02 23:30:00.000000000 -03:00
@@ -642,6 +664,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Puesto+Cincuenta+y+Cuatro/@-34.7456334,-58.3945375,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcd3c31c598f03:0xf994f4ef4df55d47!8m2!3d-34.7456378!4d-58.3923488?hl=en
       id: recTpEkQKHGBRvjdV
+      permalink: eventos/2022-11-02-puestoX54XXXdiaXdeXlosXmuertosXXbanfieldX-rectpekqkhgbrvjdv
 - - 2022-11-03 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-03 18:00:00.000000000 -03:00
@@ -669,6 +692,7 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/La+Favorita+Cantina/@-34.5876615,-58.4175812,17z/data=!4m5!3m4!1s0x95bcb5a277a51fa1:0xe141e2105c45a725!8m2!3d-34.587023!4d-58.4328185?hl=en
       id: recNh2rq8MTgmcN1M
+      permalink: eventos/2022-11-03-mundialXdelXsangucheXXmilanesa-recnh2rq8mtgmcn1m
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-03 18:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-03 23:00:00.000000000 -03:00
@@ -685,6 +709,7 @@
       calle_y_numero:
       - Del Barco Centenera y el Rio, San Isidro
       id: recHbhU42maUJUMlF
+      permalink: eventos/2022-11-03-festivalXbocasXabiertasX-rechbhu42maujumlf
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-03 20:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-03 23:30:00.000000000 -03:00
@@ -717,16 +742,17 @@
       ubicacion:
       - Chintoneria https://maps.app.goo.gl/iFAbEyrX1bLWMJvB9
       id: rec5RsceukYs5sVOl
+      permalink: eventos/2022-11-03-popupXsalvajeXenXsandoXyXlaXchintoneriaX-rec5rsceukys5svol
 - - 2022-11-04 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      name: Festival Bocas Abiertas
-      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
-      organizador: &5
-      - recaWqSj5ZvEaenjF
-      lugar: &6
-      - recaWqSj5ZvEaenjF
       comienzo: !ruby/object:DateTime 2022-11-04 12:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-04 23:00:00.000000000 -03:00
+      name: Festival Bocas Abiertas
+      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
+      lugar: &5
+      - recaWqSj5ZvEaenjF
+      organizador: &6
+      - recaWqSj5ZvEaenjF
       name_organizador: &7
       - 'Bocas Abiertas '
       name_lugar: &8
@@ -734,21 +760,56 @@
       calle_y_numero: &9
       - Del Barco Centenera y el Rio, San Isidro
       id: recYJcIjmwkE9i2h6
+      permalink: eventos/2022-11-04-festivalXbocasXabiertas-recyjcijmwke9i2h6
       multiday:
       - &10 !ruby/object:DateTime 2022-11-04 12:00:00.000000000 -03:00
       - &11 !ruby/object:DateTime 2022-11-06 23:00:00.000000000 -03:00
 - - 2022-11-05 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      name: Festival Bocas Abiertas
-      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
-      organizador: *5
-      lugar: *6
+      comienzo: !ruby/object:DateTime 2022-11-05 02:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-05 20:00:00.000000000 -03:00
+      name: Lattente cumple 11 años
+      descripcion: |2-
+         ANIVERSARIO #11 Sumamos un año más y obvio.. LO VAMOS A CELEBRAR CON UN MEGA FESTIVAL
+        AGENDATELO
+        SABADO 05 DE NOVIEMBRE
+        DESDE LAS 14 A 20 HS.
+
+
+        CASA LATTENTE
+        EN EL FRENTE:
+        Barra de filtrados y expo de artistas invitados. EN EL PATIO:
+        Barra de cocteles por @cktl.exe y la EXCELENTE comida de @carlosrodriguez805.
+        Nuestra amiga Fifi con sus clásicos @cannolidepalermo Música de nuestro amigo @elcaribeno_pico Y SORPRESAS EN LA CASA:
+        JORNADAS DE APRENDIZAJE charlas de café en taza (cómo preparar café) cata a la gorra (beneficio de @lasartendechingolo ) CHARLA ESPECIAL de parte de @cafe.responsable TENDRÉMOS COMPE?...
+        Si! pero le daremos un giro y te contaremos más en estos días
+      url: https://www.instagram.com/p/CkJ9ZiON0Xv/?igshid=YmMyMTA2M2Y=
+      lugar:
+      - recC3u3pUpgHsF9lt
+      organizador:
+      - recC3u3pUpgHsF9lt
+      name_organizador:
+      - 'Casa Lattente '
+      name_lugar:
+      - 'Casa Lattente '
+      calle_y_numero:
+      - 'Cabrera 5128, CABA '
+      ubicacion:
+      - https://maps.app.goo.gl/i1DxP9wyMdxEFgsd8
+      id: rec7tG6cPpGi9BEDS
+      permalink: eventos/2022-11-05-lattenteXcumpleX11XaXos-rec7tg6cppgi9beds
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-05 12:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-05 23:00:00.000000000 -03:00
+      name: Festival Bocas Abiertas
+      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
+      lugar: *5
+      organizador: *6
       name_organizador: *7
       name_lugar: *8
       calle_y_numero: *9
       id: recYJcIjmwkE9i2h6
+      permalink: eventos/2022-11-04-festivalXbocasXabiertas-recyjcijmwke9i2h6
       multiday:
       - *10
       - *11
@@ -785,6 +846,34 @@
       ubicacion:
       - https://www.google.com.ar/maps/place/Fat+Broder/@-34.5876615,-58.4175812,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb5800114754f:0x43d290cf51f00a09!8m2!3d-34.5876615!4d-58.4175812?hl=en
       id: recblzOcYPOZeOJqC
+      permalink: eventos/2022-11-05-fatXbroderXXXcumpleaXosXX5-recblzocypozeojqc
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-05 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-05 15:00:00.000000000 -03:00
+      name: 'Jose Juarroz: cocina abierta'
+      descripcion: |2-
+         Volvemos abrir la cocina el sábado! Desde las 12 en batalla del pari 916. Paternal. Habrá:
+        - Panchito.
+        - Pastron de cerdo.
+        Prensadito de lomito, esparragos y queso. Tempeh frito con remolach-as varias. - Productos para llevarse de todos los colores. - Brebajes.
+        Se recomienda venir temprano y con Gorrita para el sol
+      url: https://www.instagram.com/p/CkdoVQjuvX-/?igshid=YmMyMTA2M2Y=
+      lugar:
+      - recVQNEZIc22REx5q
+      organizador:
+      - recVQNEZIc22REx5q
+      participantes:
+      - recVQNEZIc22REx5q
+      name_organizador:
+      - José Juarroz
+      name_lugar:
+      - José Juarroz
+      name_participantes:
+      - José Juarroz
+      ubicacion:
+      - https://www.google.com.ar/maps/place/Batalla+del+Pari+916,+C1416+CABA/@-34.6026238,-58.4567815,21z/data=!4m13!1m7!3m6!1s0x95bcca06c981e841:0x5e6b88b27fc0e696!2sBatalla+del+Pari+915,+Buenos+Aires!3b1!8m2!3d-34.6024356!4d-58.4567324!3m4!1s0x95bcca06c7cb6a8d:0x36840b18d3fb7eed!8m2!3d-34.6026865!4d-58.4564656
+      id: recE8OA3MR543oJf0
+      permalink: eventos/2022-11-05-joseXjuarrozXXcocinaXabierta-rece8oa3mr543ojf0
     - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-05 14:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-05 20:00:00.000000000 -03:00
@@ -808,18 +897,20 @@
       ubicacion:
       - https://maps.app.goo.gl/fzabbGJBehUaPbuz9
       id: recXL2glzjfduaV9y
+      permalink: eventos/2022-11-05-díaXdeXlosXmuertosXenXbarraganX-recxl2glzjfduav9y
 - - 2022-11-06 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      name: Festival Bocas Abiertas
-      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
-      organizador: *5
-      lugar: *6
       comienzo: !ruby/object:DateTime 2022-11-06 12:00:00.000000000 -03:00
       fin: !ruby/object:DateTime 2022-11-06 23:00:00.000000000 -03:00
+      name: Festival Bocas Abiertas
+      url: https://www.instagram.com/p/Ckbuh8kpSRp/?igshid=YmMyMTA2M2Y=
+      lugar: *5
+      organizador: *6
       name_organizador: *7
       name_lugar: *8
       calle_y_numero: *9
       id: recYJcIjmwkE9i2h6
+      permalink: eventos/2022-11-04-festivalXbocasXabiertas-recyjcijmwke9i2h6
       multiday:
       - *10
       - *11
@@ -845,6 +936,7 @@
       name_organizador:
       - BA Capital Gastronómica
       id: recAKNWb4ynnN4nel
+      permalink: eventos/2022-11-12-fiestaXdeXlaXempanada-recaknwb4ynnn4nel
 - - 2022-11-13 00:00:00.000000000 -03:00
   - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       comienzo: !ruby/object:DateTime 2022-11-13 11:00:00.000000000 -03:00
@@ -869,6 +961,7 @@
       name_participantes: &17
       - Cultivando sur - Chiles Mexicanos
       id: recdeDQoRXF5sbXSx
+      permalink: eventos/2022-11-13-cultivandoXsurXenXferiaXsalvaje-recdedqorxf5sbxsx
       multiday:
       - &18 !ruby/object:DateTime 2022-11-13 11:00:00.000000000 -03:00
       - &19 !ruby/object:DateTime 2022-11-14 18:30:00.000000000 -03:00
@@ -890,6 +983,381 @@
       name_lugar: *16
       name_participantes: *17
       id: recdeDQoRXF5sbXSx
+      permalink: eventos/2022-11-13-cultivandoXsurXenXferiaXsalvaje-recdedqorxf5sbxsx
       multiday:
       - *18
       - *19
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-14 21:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-14 23:30:00.000000000 -03:00
+      name: 3 Monos en UAT. Lunes de industria a beneficio
+      descripcion: 'Cocktails especiales y baratos a beneficio '
+      url: https://instagram.com/stories/comerselargentina/2971416604000958689?utm_source=ig_story_item_share&igshid=MDJmNzVkMjY=
+      lugar:
+      - recucvS9jTZ6ouJXp
+      organizador:
+      - rec5kE0Su4L0DVM3U
+      participantes:
+      - rec5kE0Su4L0DVM3U
+      name_organizador:
+      - 3 Monos Bar
+      name_lugar:
+      - La UAT
+      name_participantes:
+      - 3 Monos Bar
+      calle_y_numero:
+      - Thames 1627, C1425 CABA
+      ubicacion:
+      - https://maps.app.goo.gl/YtaxsmhGARc9nHym7
+      id: recoikKGDVSDbdP0j
+      permalink: eventos/2022-11-14-3XmonosXenXuatXXlunesXdeXindustriaXaXbeneficio-recoikkgdvsdbdp0j
+- - 2022-11-15 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-15 19:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-15 23:30:00.000000000 -03:00
+      name: Lupa Resto en El Limón
+      url: https://www.instagram.com/stories/ellimonbar/2970641043100826469/
+      lugar:
+      - recIR7ZDbPvdx0Av4
+      organizador:
+      - recIR7ZDbPvdx0Av4
+      participantes:
+      - recp2ftwKtFzuLA5i
+      name_organizador:
+      - El Limon Bar
+      name_lugar:
+      - El Limon Bar
+      name_participantes:
+      - Lupa
+      calle_y_numero:
+      - Castillo 590, C1414 CABA
+      ubicacion:
+      - https://www.google.com.ar/maps/place/eL+Lim%C3%B3n/@-34.5484217,-58.4789803,14z/data=!4m5!3m4!1s0x95bccb7c6f14108b:0x30be44ec9db962cd!8m2!3d-34.5946934!4d-58.4351959?hl=en
+      id: recCnlTxvaBJMXlFa
+      permalink: eventos/2022-11-15-lupaXrestoXenXelXlimón-reccnltxvabjmxlfa
+- - 2022-11-19 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-19 16:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-19 22:00:00.000000000 -03:00
+      name: Chori, Vino y Cerámica
+      descripcion: " \nEste sábado recibimos a @calipsoceramicas por la tardey mientras
+        nos tomamos un vinito bien fresco y cae la noche, prendemos la parri del PARI.
+        Musicaliza la velada @sandiaconvino"
+      url: https://www.instagram.com/p/ClCUdr2POvw/?igshid=MTg0ZDhmNDA=
+      lugar:
+      - recVQNEZIc22REx5q
+      organizador:
+      - recVQNEZIc22REx5q
+      participantes:
+      - recVQNEZIc22REx5q
+      name_organizador:
+      - José Juarroz
+      name_lugar:
+      - José Juarroz
+      name_participantes:
+      - José Juarroz
+      ubicacion:
+      - https://www.google.com.ar/maps/place/Batalla+del+Pari+916,+C1416+CABA/@-34.6026238,-58.4567815,21z/data=!4m13!1m7!3m6!1s0x95bcca06c981e841:0x5e6b88b27fc0e696!2sBatalla+del+Pari+915,+Buenos+Aires!3b1!8m2!3d-34.6024356!4d-58.4567324!3m4!1s0x95bcca06c7cb6a8d:0x36840b18d3fb7eed!8m2!3d-34.6026865!4d-58.4564656
+      id: reczUorx9qhqNrMI7
+      permalink: eventos/2022-11-19-choriXXvinoXyXcerámica-reczuorx9qhqnrmi7
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-19 17:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-19 23:30:00.000000000 -03:00
+      name: Expo Queso Lincoln 2022
+      descripcion: |2-
+         Vení a la #ExpoQueso2022! 19, 20 y 21 de #noviembre
+        Desde las 17 h
+        Con la visita de @quesarte_argentina que va a elaborar quesos en nuestra cocina #envivo desde la 18.30 hs Vas a poder recorrer el patio de comidas, aprender pequeños secretos de la cocina regional y disfrutar de música en vivo
+        Exp0
+        días
+        G15 productores
+        Cocina en vivo
+        GDegustaciones
+        GFoodtrucks
+        GCharlas
+        GTalleres
+        mucho más!
+        ¿Dónde? En el predio de la Sociedad Rural de #Lincoln
+      url: https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTYyNTg4MzY5OTM2NzM1?story_media_id=2955716216027641818_3954364916&igshid=MTg0ZDhmNDA=
+      lugar: &20
+      - recqRjMgw2AIA8OgW
+      organizador: &21
+      - recqRjMgw2AIA8OgW
+      participantes: &22
+      - recqRjMgw2AIA8OgW
+      name_organizador: &23
+      - Expo Queso Lincoln
+      name_lugar: &24
+      - Expo Queso Lincoln
+      name_participantes: &25
+      - Expo Queso Lincoln
+      calle_y_numero: &26
+      - Pcia de Córdoba 699, B6070 Lincoln, Provincia de Buenos Aires
+      ubicacion: &27
+      - https://maps.app.goo.gl/ES7Yj4fFqBnNkfTGA
+      id: rec7zIgJn06uaiWYB
+      permalink: eventos/2022-11-19-expoXquesoXlincolnX2022-rec7zigjn06uaiwyb
+      multiday:
+      - &28 !ruby/object:DateTime 2022-11-19 17:00:00.000000000 -03:00
+      - &29 !ruby/object:DateTime 2022-11-21 23:30:00.000000000 -03:00
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-19 19:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-19 23:30:00.000000000 -03:00
+      name: 'Rosario: degustación de cocktails y vermouth artesanal'
+      descripcion: |-
+        | Sábado 19/11
+        21hs (21.15 Presentación) | Laprida 1562 @1562socialclub
+        | Solo con reserva previa.
+        Reservas: +549 341 3141286 | +549 341 3570168 (WhatsApp)
+        por MD a nuestro Instagram @ay.cocktail Hola amigos les contamos que el día Sábado 19/11 vamos a estar realizando un evento de degustación de Vermut @vermouthlacharla, con coctelería de autor, acompañado de unas ricas tapasy postre Creemos que el vermut es de las bebidas que más invitan a tomarla en compañía y que da pie al disfrute y buenas conversaciones Por eso traemos está propuesta en @1562socialclub para que te animes a conocer un vermut artesanal de Rosario, gestado en Barcelona, que busca traernos ese estilo único y el ritual de compartir momentos acompañándolo de un vermut, unas ricas tapas y algo de charla:) La propuesta incluye vermut libre a elección, puro o con soda, dos cocktails a base de Vermut La Charla, todo acompañiado de exquisitas tapas y postre.
+        Valor de la entrada: $4200 La entrada incluye un voucher de compra de $500 para que te puedas Ilevar a casa el vermut que degustamos También vamos a tener sorteos, juegos y más... Venite a tomar un vermucito con nosotros, te esperamos!
+      url: https://www.instagram.com/p/Ckoz78OrPFm/?igshid=YmMyMTA2M2Y=
+      lugar:
+      - recB9VIOSX4uDtp9N
+      organizador:
+      - recrGUnr6lKdjc0jy
+      participantes:
+      - recrGUnr6lKdjc0jy
+      name_organizador:
+      - AY Cocktail
+      name_lugar:
+      - Club Social 1562
+      name_participantes:
+      - AY Cocktail
+      calle_y_numero:
+      - CFV, Laprida 1562, S2000 Rosario, Santa Fe
+      ubicacion:
+      - https://maps.app.goo.gl/YCp6Xj2as4JffEBH6
+      id: rec7KFcRCC7RoeWas
+      permalink: eventos/2022-11-19-rosarioXXdegustaciónXdeXcocktailsXyXvermouthXartesanal-rec7kfcrcc7roewas
+- - 2022-11-20 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-20 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-20 20:00:00.000000000 -03:00
+      name: 'Festival: Vermú y Veredita'
+      descripcion: " Armando la Coreo para el Domingo Este 20 de Noviembre se Goza
+        fuerte, cumplimos 101 años con el Barrio y Todos Ustedes. levante la mano
+        quien esta ready para otro Cumpleañitos Yiyenze"
+      url: https://www.instagram.com/p/Ck-3cFMrmK_/?igshid=MTg0ZDhmNDA=
+      lugar:
+      - recxg722DPonmzCJS
+      organizador:
+      - recxg722DPonmzCJS
+      participantes:
+      - recxg722DPonmzCJS
+      name_organizador:
+      - Yiyo el Xeneize
+      name_lugar:
+      - Yiyo el Xeneize
+      name_participantes:
+      - Yiyo el Xeneize
+      calle_y_numero:
+      - Av. Eva Perón 4402, C1407HUK CABA
+      ubicacion:
+      - https://maps.app.goo.gl/SLtfJqzbHBweWsaa7
+      id: reckINn2uqdbrBkDM
+      permalink: eventos/2022-11-20-festivalXXvermúXyXveredita-reckinn2uqdbrbkdm
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-20 17:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-20 23:30:00.000000000 -03:00
+      name: Expo Queso Lincoln 2022
+      descripcion: |2-
+         Vení a la #ExpoQueso2022! 19, 20 y 21 de #noviembre
+        Desde las 17 h
+        Con la visita de @quesarte_argentina que va a elaborar quesos en nuestra cocina #envivo desde la 18.30 hs Vas a poder recorrer el patio de comidas, aprender pequeños secretos de la cocina regional y disfrutar de música en vivo
+        Exp0
+        días
+        G15 productores
+        Cocina en vivo
+        GDegustaciones
+        GFoodtrucks
+        GCharlas
+        GTalleres
+        mucho más!
+        ¿Dónde? En el predio de la Sociedad Rural de #Lincoln
+      url: https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTYyNTg4MzY5OTM2NzM1?story_media_id=2955716216027641818_3954364916&igshid=MTg0ZDhmNDA=
+      lugar: *20
+      organizador: *21
+      participantes: *22
+      name_organizador: *23
+      name_lugar: *24
+      name_participantes: *25
+      calle_y_numero: *26
+      ubicacion: *27
+      id: rec7zIgJn06uaiWYB
+      permalink: eventos/2022-11-19-expoXquesoXlincolnX2022-rec7zigjn06uaiwyb
+      multiday:
+      - *28
+      - *29
+- - 2022-11-21 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-21 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-21 20:00:00.000000000 -03:00
+      name: Crumb toda la tarde
+      descripcion: Sanguches / Birra / Vino / Vermu
+      url: https://instagram.com/stories/crumb.deli/2975954938842001716?utm_source=ig_story_item_share&igshid=NTFlZDUzZmM=
+      lugar:
+      - recBZoKcHBOZAkf02
+      organizador:
+      - recBZoKcHBOZAkf02
+      participantes:
+      - recBZoKcHBOZAkf02
+      name_organizador:
+      - Crumb Deli
+      name_lugar:
+      - Crumb Deli
+      name_participantes:
+      - Crumb Deli
+      calle_y_numero:
+      - Av. Corrientes 5008, C1414 CABA
+      ubicacion:
+      - https://maps.app.goo.gl/H14T7YZQKsVznyUT6
+      id: recgKjk5f60E1YUQb
+      permalink: eventos/2022-11-21-crumbXtodaXlaXtarde-recgkjk5f60e1yuqb
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-21 17:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-21 23:30:00.000000000 -03:00
+      name: Expo Queso Lincoln 2022
+      descripcion: |2-
+         Vení a la #ExpoQueso2022! 19, 20 y 21 de #noviembre
+        Desde las 17 h
+        Con la visita de @quesarte_argentina que va a elaborar quesos en nuestra cocina #envivo desde la 18.30 hs Vas a poder recorrer el patio de comidas, aprender pequeños secretos de la cocina regional y disfrutar de música en vivo
+        Exp0
+        días
+        G15 productores
+        Cocina en vivo
+        GDegustaciones
+        GFoodtrucks
+        GCharlas
+        GTalleres
+        mucho más!
+        ¿Dónde? En el predio de la Sociedad Rural de #Lincoln
+      url: https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTYyNTg4MzY5OTM2NzM1?story_media_id=2955716216027641818_3954364916&igshid=MTg0ZDhmNDA=
+      lugar: *20
+      organizador: *21
+      participantes: *22
+      name_organizador: *23
+      name_lugar: *24
+      name_participantes: *25
+      calle_y_numero: *26
+      ubicacion: *27
+      id: rec7zIgJn06uaiWYB
+      permalink: eventos/2022-11-19-expoXquesoXlincolnX2022-rec7zigjn06uaiwyb
+      multiday:
+      - *28
+      - *29
+- - 2022-11-23 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-23 19:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-23 03:00:00.000000000 -03:00
+      name: Alfonso Cocinero Nómade en El Limon
+      descripcion: |-
+        Tapa de asado orgánica, alcaparra frita, cebolla morada, huevo curado rallado, alioli de miel, flores y brotes
+
+        Hummus de remolacha, hongos confitados y enokis frescos, laja de caramelo picante, pickle de rabanito, tostadas Endivias con crema de queso azúl, frutilla fermentaday ananá, quinoa frita, eneldo, aceite de páprika
+
+        Ensalada de papines andinos, calamar, pickles de zanahoria, alioli, gremolata, pickle mostaza
+      url: https://instagram.com/stories/ellimonbar/2977888664911707517?utm_source=ig_story_item_share&igshid=NTFlZDUzZmM=
+      lugar:
+      - recIR7ZDbPvdx0Av4
+      organizador:
+      - recIR7ZDbPvdx0Av4
+      name_organizador:
+      - El Limon Bar
+      name_lugar:
+      - El Limon Bar
+      calle_y_numero:
+      - Castillo 590, C1414 CABA
+      ubicacion:
+      - https://www.google.com.ar/maps/place/eL+Lim%C3%B3n/@-34.5484217,-58.4789803,14z/data=!4m5!3m4!1s0x95bccb7c6f14108b:0x30be44ec9db962cd!8m2!3d-34.5946934!4d-58.4351959?hl=en
+      id: rec89eYYnU3pfiQmH
+      permalink: eventos/2022-11-23-alfonsoXcocineroXnómadeXenXelXlimon-rec89eyynu3pfiqmh
+      multiday:
+      - !ruby/object:DateTime 2022-11-23 19:00:00.000000000 -03:00
+      - !ruby/object:DateTime 2022-11-24 03:00:00.000000000 -03:00
+- - 2022-11-25 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-25 19:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-25 23:30:00.000000000 -03:00
+      name: Le Comalito en Juan Pedro Chuntano
+      descripcion: QUESADILLA RACLETTERA + QUESO SUIZO CAMARON + FRIJOLES + QUESO
+        SUIZO + LICOR DE ALBARICOQUE + PORTOBELLO + QUESO AJO DE OSO + LICOR DE PERA  +
+        CHORIZO
+      url: https://www.instagram.com/p/ClYwLY8NG8B/?igshid=MTg0ZDhmNDA=
+      lugar:
+      - recjYJ0iywY6MslI1
+      organizador:
+      - recjYJ0iywY6MslI1
+      participantes:
+      - recPLf1DxHZ0YGN9u
+      name_organizador:
+      - Juan Pedro Chuntano
+      name_lugar:
+      - Juan Pedro Chuntano
+      name_participantes:
+      - Le Comalito
+      calle_y_numero:
+      - Thames 1719, CABA
+      ubicacion:
+      - https://www.google.com.ar/maps/place/Juan+Pedro+Caballero/@-34.5477769,-58.4515826,15z/data=!4m5!3m4!1s0x95bcb53183b3d3ff:0xb2154c02f730fef2!8m2!3d-34.58733!4d-58.4296978?hl=en
+      barrio:
+      - Palermo
+      id: recYLnhCqsx2ahmWa
+      permalink: eventos/2022-11-25-leXcomalitoXenXjuanXpedroXchuntano-recylnhcqsx2ahmwa
+- - 2022-11-27 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-11-27 12:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-11-27 18:00:00.000000000 -03:00
+      name: 'Malcriada cumple años '
+      url: https://www.instagram.com/p/ClTr39bLGmN/?igshid=MTg0ZDhmNDA=
+      lugar:
+      - recd6tThTWiyfmo2z
+      organizador:
+      - recd6tThTWiyfmo2z
+      participantes:
+      - recVQNEZIc22REx5q
+      - recd6tThTWiyfmo2z
+      name_organizador:
+      - Malcriada Cafe
+      name_lugar:
+      - Malcriada Cafe
+      name_participantes:
+      - José Juarroz
+      - Malcriada Cafe
+      calle_y_numero:
+      - Bonpland 1367, C1425 CABA
+      ubicacion:
+      - https://maps.app.goo.gl/AMnSm44AJh8BBSJZ7
+      id: recKdoDcC4SK69QdU
+      permalink: eventos/2022-11-27-malcriadaXcumpleXaXosX-reckdodcc4sk69qdu
+- - 2022-12-04 00:00:00.000000000 -03:00
+  - - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      comienzo: !ruby/object:DateTime 2022-12-04 16:00:00.000000000 -03:00
+      fin: !ruby/object:DateTime 2022-12-04 20:00:00.000000000 -03:00
+      name: Juntos Cafe
+      descripcion: |-
+        ¿Por qué hacer un evento cuando podemos hacer tres en uno? Es oficial. Llega Juntos Café: tres cafeterías se unen con su tostador por un día en una fiesta sin precedentes. Sí, Blanca, Raíz y Punto comparten barra en Puerto Blest con una selección especial de cafés, pastelería y cocteles. Tienda del Barista nos abre sus puertas para que puedas probar algunas de las mejores bebidas que tuvimos en carta este año y descubrir otras nuevas que desarrollamos en conjunto. Tendremos una barra de espresso, otra de filtrados y una más de cafés fríos y cocteles. También habrá cositas ricas caseras, artículos de la tienda y cuartos de café especial. Domingo 4, desde las 16 hs.
+        Castillo 894, Villa Crespo. Con entrada libre y gratuita. Te esperamos con música a cargo de FBST!N @fabustin y por supuesto, muchos amigos. Porque Juntos, todo es más rico.
+      url: https://www.instagram.com/p/ClgdXZ7LZ6I/?igshid=MTg0ZDhmNDA=
+      lugar:
+      - recXiCZmL6TG1exaN
+      organizador:
+      - recXiCZmL6TG1exaN
+      participantes:
+      - recR8tAHUyE6LivYW
+      - recWf5N11SKDmiLtt
+      - recXiCZmL6TG1exaN
+      name_organizador:
+      - Punto Cafe
+      name_lugar:
+      - Punto Cafe
+      name_participantes:
+      - Blanca Deco & Cafe
+      - Raíz Cafw
+      - Punto Cafe
+      calle_y_numero:
+      - Perú 602, C1068 CABA
+      ubicacion:
+      - https://maps.app.goo.gl/hwyWLYY2SBbs5guRA
+      id: recYs5RCNyvXdyPMt
+      permalink: eventos/2022-12-04-juntosXcafe-recys5rcnyvxdypmt
